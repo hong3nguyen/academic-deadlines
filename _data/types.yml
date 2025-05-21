@@ -11,3 +11,7 @@
   tag: CONF
 - name: Workshop
   tag: SHOP
+- name: Benchmarking
+  tag: Bench
+- name: Distributed-Sys
+  tag: DS
