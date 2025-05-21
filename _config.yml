@@ -4,11 +4,11 @@ description: Countdowns to Heaven or Valhalla.
 author: hong3nguyen
 
 domain: "https://hong3nguyen.github.io"
-baseurl: "/sec-deadlines"
+baseurl: "/academic-deadlines"
 
 twitter_username: hong3nguyen
 github_username: hong3nguyen
-github_repo: sec-deadlines
+github_repo: academic-deadlines
 ga_id: UA-104921371-1
 
 markdown: kramdown
