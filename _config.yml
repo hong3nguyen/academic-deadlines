@@ -1,13 +1,12 @@
-title: Security and Privacy Conference Deadlines
-description: Countdowns to top Security and Privacy conference deadlines.
-author: Bogdan Kulynych
+title: AaltoSEA current deadlines
+description: Countdowns to Heaven or Valhalla.
+#source from: Bogdan Kulynych
+author: hong3nguyen
 
-# domain: "hong3nguyen.github.io/sec-deadlines"
-# baseurl: ""
 domain: "https://hong3nguyen.github.io"
 baseurl: "/sec-deadlines"
 
-twitter_username: hiddenmarkov
+twitter_username: hong3nguyen
 github_username: hong3nguyen
 github_repo: sec-deadlines
 ga_id: UA-104921371-1
