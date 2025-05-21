@@ -3,7 +3,9 @@
   date: Nov 11-14
   description: IFIP PERFORMANCE
   link: https://performance2025.sciencesconf.org/
-  deadline: "2025-05-28 23:59"
+  deadline:
+    - "2025-06-05 23:59"
+    - "2025-11-13 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
   place: CWI, Amsterdam, Netherlands
   tags: [Bench, CONF, DS]
