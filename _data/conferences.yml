@@ -39,3 +39,16 @@
   comment: Abstract registration required (1 week before deadline AoE).
   place: CWI, Amsterdam, Netherlands
   tags: [Bench, CONF, DS]
+
+
+- name: ICPE
+  year: 2026
+  date: May 4-8
+  description:  International Conference on Performance Engineering (ICPE)
+  link: https://icpe.spec.org/
+  deadline: ["2025-11-01 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: Florence, Italy
+  tags: [Bench, CONF, DS]
+
+
