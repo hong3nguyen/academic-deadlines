@@ -8,7 +8,17 @@
   comment: Abstract registration required (1 week before deadline AoE).
   place: Rio de Janeiro, Brazil
   tags: [SOFT, CONF, TOP4]
-  
+
+- name: AAAI
+  year: 2026
+  date: January 20 - 27
+  description: Annual AAAI Conference on Artificial Intelligence 
+  link:  https://aaai.org/conference/aaai/aaai-26/
+  deadline: ["2025-08-01 23:59"]
+  comment: Abstract registration required (July 25 AoE).
+  place: Singapore
+  tags: [AI, CONF]
+
 - name: FSE
   year: 2026
   date: TBD
