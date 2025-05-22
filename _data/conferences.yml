@@ -9,6 +9,16 @@
   place: Rio de Janeiro, Brazil
   tags: [SOFT, CONF, TOP4]
 
+- name: CAIN
+  year: 2026
+  date: April 12 - 18 (together with ICSE)
+  description: International Conference on AI Engineering Software Engineering For AI
+  link:  https://conf.researchr.org/home/cain-2026
+  deadline: ["2025-11-09 23:59"]
+  comment: Abstract registration Optional (1 week before deadline AoE).
+  place: Rio de Janeiro, Brazil
+  tags: [SOFT, AI, CONF]
+
 - name: AAAI
   year: 2026
   date: January 20 - 27
@@ -17,7 +27,7 @@
   deadline: ["2025-08-01 23:59"]
   comment: Abstract registration required (July 25 AoE).
   place: Singapore
-  tags: [AI, CONF]
+  tags: [AI, CONF, TOP4]
 
 - name: FSE
   year: 2026
