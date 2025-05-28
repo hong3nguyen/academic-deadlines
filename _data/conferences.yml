@@ -12,18 +12,18 @@
 - name: CAIN
   year: 2026
   date: April 12 - 18 (together with ICSE)
-  description:  International Conference on AI Engineering Software Engineering For AI
+  description: International Conference on AI Engineering Software Engineering For AI
   link: https://conf.researchr.org/home/cain-2026
   deadline: ["2025-11-09 23:59"]
-  comment:  Abstract registration Optional (1 week before deadline AoE).
-  place:  Rio de Janeiro, Brazil
+  comment: Abstract registration Optional (1 week before deadline AoE).
+  place: Rio de Janeiro, Brazil
   tags: [SOFT, AI, CONF]
 
 - name: AAAI
   year: 2026
   date: January 20 - 27
-  description: Annual AAAI Conference on Artificial Intelligence 
-  link:  https://aaai.org/conference/aaai/aaai-26/
+  description: Annual AAAI Conference on Artificial Intelligence
+  link: https://aaai.org/conference/aaai/aaai-26/
   deadline: ["2025-08-18 23:59"]
   comment: Abstract registration Optional (1 week before deadline AoE).
   place: Singapore
@@ -33,19 +33,19 @@
   year: 2026
   date: TBD
   description: Foundations of Software Engineering
-  link:  https://conf.researchr.org/home/fse-2026
+  link: https://conf.researchr.org/home/fse-2026
   deadline: ["2025-09-11 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
   place: Montréal, Canada
   tags: [SOFT, CONF, TOP4]
-  
+
 # Bench
 - name: PERFORMANCE
   year: 2025
   date: Nov 11-14
   description: IFIP PERFORMANCE
   link: https://performance2025.sciencesconf.org/
-  deadline: ["2025-06-01 23:59"]
+  deadline: ["2025-06-15 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
   place: CWI, Amsterdam, Netherlands
   tags: [Bench, CONF, DS]
@@ -53,7 +53,7 @@
 - name: ICPE
   year: 2026
   date: May 4-8
-  description:  International Conference on Performance Engineering
+  description: International Conference on Performance Engineering
   link: https://icpe.spec.org/
   deadline: ["2025-11-01 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
@@ -63,10 +63,20 @@
 # DS
 - name: ICDCS
   year: 2026
-  date: July 
-  description: International Conference on Distributed Computing Systems 
-  link: https://icdcs2025.icdcs.org/ 
+  date: July
+  description: International Conference on Distributed Computing Systems
+  link: https://icdcs2025.icdcs.org/
   deadline: ["2025-12-01 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
   place: Somewhere
   tags: [CONF, DS]
+
+- name: SIGCOMM
+  year: 2026
+  date: May
+  description: ACM Special Interest Group on Data Communication
+  link: https://conferences.sigcomm.org/sigcomm/2026/
+  deadline: ["2026-01-04 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: Somewhere
+  tags: [CONF, DS, TOP4]
