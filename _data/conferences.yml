@@ -73,6 +73,18 @@
   tags: [Bench, CONF, DS]
 
 # DS
+
+- name: EuroSys
+  year: 2026
+  date: April 13 - 16
+  description: EuroSys
+  link: https://2026.eurosys.org/
+  #deadline: ["2025-07-15 23:59"]
+  deadline: ["2025-09-25 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: Edinburgh, UK
+  tags: [DS, CONF, TOP4]
+
 - name: ICDCS
   year: 2026
   date: July
