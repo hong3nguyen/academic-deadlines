@@ -104,3 +104,23 @@
   comment: Abstract registration required (1 week before deadline AoE).
   place: Somewhere
   tags: [CONF, DS, TOP4]
+
+- name: AsiaCCS
+  year: 2026
+  date: June 1-6
+  description: 21st ACM ASIA Conference on Computer and Communications Security
+  link: https://asiaccs2026.cse.iitkgp.ac.in/
+  deadline: ["2025-08-25 23:59", "2025-12-12 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: Bangalore, India
+  tags: [CONF, DS, TOP4, SEC]
+
+- name: EuroS&P
+  year: 2026
+  date: June 1-6
+  description: 10th IEEE European Symposium on Security and Privacy
+  link: https://eurosp2026.ieee-security.org
+  deadline: ["2025-10-25 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: Somewhere
+  tags: [CONF, DS, TOP4, SEC]
