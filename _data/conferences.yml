@@ -21,6 +21,16 @@
   place: Rio de Janeiro, Brazil
   tags: [SOFT, CONF, TOP4]
 
+- name: AIware
+  year: 2025
+  date: November 19 - 20
+  description: The 2nd ACM International Conference on AI-powered Software
+  link: https://2025.aiwareconf.org/track/aiware-2025-papers#Call-for-Papers
+  deadline: ["2025-07-25 23:59"]
+  comment: Intent Registration (Optional).
+  place: Seoul, South Korea
+  tags: [SOFT, CONF, AI]
+
 - name: CAIN
   year: 2026
   date: April 12 - 18 (together with ICSE)
