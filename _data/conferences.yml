@@ -134,3 +134,34 @@
   comment: Abstract registration required (1 week before deadline AoE).
   place: Somewhere
   tags: [CONF, DS, TOP4, SEC]
+
+  # Upcoming Conference Deadlines (August 2025 onwards)
+# Note: Please verify deadlines as they may change
+
+- name: ICDCN
+  year: 2026
+  date: January 06 - 09
+  description: 27th International Conference on Distributed Computing and Networking
+  link: https://conf.researchr.org/home/icdcn-2026 # (to be confirmed)
+  deadline: ["2025-07-25 23:59"]
+  comment: Abstract registration may be required (check conference website)
+  place: Nara, Japan
+  tags: [DIST, CONF]
+# Note: Many conferences from your list have deadlines that have already passed
+# or conference information for 2026 is not yet available. Please check:
+
+# Conferences needing verification for 2026:
+# - ICDCS 2026 (ICDCS 2025 was July 20-23 in Glasgow - deadline likely passed)
+# - DEBs 2026 (DEBs 2025 deadline has passed)
+# - ICPE 2026 (information not yet available)
+# - ASE 2026 (information not yet available)
+# - SRDS 2026 (information not yet available)
+# - ARES 2026 (information not yet available)
+# - ICSOC 2026 (ICSOC 2025 deadline likely in July/August)
+# - PERCOM 2026 (information not yet available)
+# - Ubicomp 2026 (information not yet available)
+# - ISSRE 2026 (information not yet available)
+# - ICST 2026 (information not yet available)
+
+# Recommended action: Check individual conference websites for 2026 calls for papers
+# Many conferences announce their 2026 calls in late 2025
