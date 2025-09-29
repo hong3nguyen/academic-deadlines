@@ -147,6 +147,17 @@
   comment: Abstract registration may be required (check conference website)
   place: Nara, Japan
   tags: [DIST, CONF]
+
+- name: RCF fellowship
+  year: 2026
+  date: Sep 2026 - Aug 2030
+  description: Fellowship funding
+  link: https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/for-researchers/2026-academy-research-fellowships-all-research-fields/
+  #deadline: ["2025-07-15 23:59"]
+  deadline: ["2025-11-12 23:59"]
+  comment: Internal deadline is 10 Oct 2025
+  place: Helsinki, Finland
+  tags: [FUND]
 # Conferences needing verification for 2026:
 # - ICDCS 2026 (ICDCS 2025 was July 20-23 in Glasgow - deadline likely passed)
 # - DEBs 2026 (DEBs 2025 deadline has passed)
