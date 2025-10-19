@@ -135,9 +135,6 @@
   place: Somewhere
   tags: [CONF, DS, TOP4, SEC]
 
-  # Upcoming Conference Deadlines (August 2025 onwards)
-# Note: Please verify deadlines as they may change
-
 - name: ICDCN
   year: 2026
   date: January 06 - 09
