@@ -158,6 +158,40 @@
   comment: Internal deadline is 10 Oct 2025
   place: Helsinki, Finland
   tags: [FUND]
+
+- name: CCGrid
+  year: 2026
+  date: May 18 - 21
+  description: The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing
+  link: https://ccgrid2026.cdms.westernsydney.edu.au/
+  deadline: ["2025-12-15 23:59"]
+  comment: Abstract Submission Deadline 1st December 2025.
+  place: Sydney, Australia
+  tags: [CONF, DS, AI, SEC, PRIV, SOFT]
+
+- name: DSN
+  year: 2026
+  date: June 22 - 25
+  description: The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+  link: https://dsn2026.github.io/
+  deadline: ["2025-12-04 23:59"]
+  comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
+  place: Charlotte, USA
+  tags: [CONF, DS, AI, SEC, PRIV, SOFT]
+
+- name: ICSA
+  year: 2026
+  date: June 22 - 26
+  description: The 23rd IEEE International Conference on Software Architecture (ICSA 2026)
+  link: https://conf.researchr.org/home/icsa-2026
+  deadline: ["2025-12-05 23:59"]
+  comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
+  place: Netherlands, Amsterdam
+  tags: [CONF, AI, SOFT]
+
+# Upcoming Conference Deadlines (August 2025 onwards)
+# Note: Please verify deadlines as they may change
+
 # Conferences needing verification for 2026:
 # - ICDCS 2026 (ICDCS 2025 was July 20-23 in Glasgow - deadline likely passed)
 # - DEBs 2026 (DEBs 2025 deadline has passed)
