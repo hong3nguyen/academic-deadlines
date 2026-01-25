@@ -1,4 +1,81 @@
 # Software
+- name: ICDCS
+  year: 2026
+  date: June 22 - 25
+  description: 46th IEEE International Conference on Distributed Computing Systems
+  link: https://icdcs2026.icdcs.org/
+  deadline: ["2026-01-21 23:59"]
+  comment: Abstract and Paper submission deadline.
+  place: Seoul, South Korea
+  tags: [CONF, DS]
+
+- name: DEBS
+  year: 2026
+  date: June 23 - 26
+  description: The 20th ACM International Conference on Distributed and Event-based Systems
+  link: https://2026.debs.org/
+  deadline: ["2026-02-20 23:59"]
+  comment: Abstract Submission Deadline 13th February 2026.
+  place: Lisbon, Portugal
+  tags: [CONF, DS]
+
+- name: ICPE
+  year: 2026
+  date: May 04 - 08
+  description: 17th ACM/SPEC International Conference on Performance Engineering
+  link: https://icpe2026.spec.org/
+  deadline: ["2025-11-10 23:59"]
+  comment: Main research track deadline has passed.
+  place: Florence, Italy
+  tags: [CONF, Bench, SOFT]
+
+- name: ASE
+  year: 2026
+  date: October 12 - 16
+  description: 41st IEEE/ACM International Conference on Automated Software Engineering
+  link: https://conf.researchr.org/home/ase-2026
+  deadline: ["2026-03-26 23:59"]
+  comment: Abstract deadline usually a week prior (TBC).
+  place: Munich, Germany
+  tags: [CONF, SOFT, AI]
+
+- name: SRDS
+  year: 2026
+  date: September 2026 (TBC)
+  description: 45th International Symposium on Reliable Distributed Systems
+  link: http://www.srds-conference.org/
+  deadline: ["2026-05-15 23:59"]
+  comment: Dates and location to be confirmed. Deadline is estimated based on previous years.
+  place: TBC
+  tags: [CONF, DS]
+
+- name: ARES
+  year: 2026
+  date: August 24 - 27
+  description: The 21st International Conference on Availability, Reliability and Security
+  link: https://www.ares-conference.eu/
+  deadline: ["2026-03-09 23:59"]
+  comment: Abstract deadline March 02, 2026.
+  place: Linköping, Sweden
+  tags: [CONF, SEC, PRIV]
+
+- name: ICSOC
+  year: 2026
+  date: November 2026 (TBC)
+  description: 24th International Conference on Service-Oriented Computing
+  link: http://www.icsoc.org/
+  deadline: ["2026-05-15 23:59"]
+  comment: Dates and location to be confirmed. Deadline is estimated based on previous years.
+  place: TBC
+  tags: [CONF, DS, SOFT]
+
+- name: PerCom
+  year: 2026
+  date: March 16 - 20
+  description: IEEE International Conference on Pervasive Computing and Communications
+  link: https://percom.org/
+  deadline: ["2025-09-26 23:59"]
+  comment: Main deadline has passed. Late
 
 - name: ICSOC
   year: 2025
@@ -185,7 +262,6 @@
   comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
   place: Netherlands, Amsterdam
   tags: [CONF, AI, SOFT]
-
 # Upcoming Conference Deadlines (August 2025 onwards)
 # Note: Please verify deadlines as they may change
 
@@ -201,6 +277,8 @@
 # - Ubicomp 2026 (information not yet available)
 # - ISSRE 2026 (information not yet available)
 # - ICST 2026 (information not yet available)
+# - Middleware 2026 (information not yet available)
+# - ISSRE 2026 (information not yet available)
 
 # Recommended action: Check individual conference websites for 2026 calls for papers
 # Many conferences announce their 2026 calls in late 2025
