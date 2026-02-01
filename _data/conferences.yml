@@ -1,3 +1,13 @@
+- name: ICPP
+  year: 2026
+  date: Sep 28 - Oct 01
+  description: The International Conference on Parallel Processing
+  link: https://icpp2026.github.io/call-for-papers/
+  deadline: ["2026-04-24 23:59"]
+  comment: Abstract Submission Deadline 24th April 2026.
+  place: Singapore
+  tags: [CONF, DS]
+
 - name: DEBS
   year: 2026
   date: June 23 - 26
