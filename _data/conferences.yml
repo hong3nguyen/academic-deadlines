@@ -1,5 +1,15 @@
 - name: ICPP
   year: 2026
+  date: Oct 20 - 23
+  description: 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026)
+  link: https://cyprusconferences.org/issre2026/cfp-research/
+  deadline: ["2026-04-17 23:59"]
+  comment: Abstract Submission Deadline 10th April 2026.
+  place: Cyprus
+  tags: [CONF, DS]
+
+- name: ICPP
+  year: 2026
   date: Sep 28 - Oct 01
   description: The International Conference on Parallel Processing
   link: https://icpp2026.github.io/call-for-papers/
