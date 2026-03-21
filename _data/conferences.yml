@@ -1,3 +1,13 @@
+- name: SERVICES
+  year: 2026
+  date: July 13 - 18
+  description: 2026 IEEE World Congress on Services (SERVICES 2026)
+  link: https://services.conferences.computer.org/2026/info-for-authors/
+  deadline: ["2026-03-22 23:59"]
+  comment: Multiple tracks and deadlines (varies by affiliated conferences; see website).
+  place: Sydney, Australia
+  tags: [CONF, DS]
+
 - name: ISSRE
   year: 2026
   date: Oct 20 - 23
