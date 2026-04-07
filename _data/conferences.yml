@@ -8,6 +8,16 @@
   place: Sydney, Australia
   tags: [CONF, DS]
 
+- name: APSEC
+  year: 2026
+  date: Dec 7 - 10
+  description: 33rd Asia-Pacific Software Engineering Conference (APSEC 2026)
+  link: https://conf.researchr.org/home/apsec-2026
+  deadline: ["2026-07-13 23:59"]
+  comment: Abstract Submission Deadline 06th July 2026.
+  place: Bali, Indonesia
+  tags: [CONF, DS]
+
 - name: ISSRE
   year: 2026
   date: Oct 20 - 23
