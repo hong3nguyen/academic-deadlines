@@ -6,7 +6,7 @@
   deadline: ["2026-03-22 23:59"]
   comment: Multiple tracks and deadlines (varies by affiliated conferences; see website).
   place: Sydney, Australia
-  tags: [CONF, DS]
+  tags: [CONF, DS, SOFT]
 
 - name: APSEC
   year: 2026
@@ -16,7 +16,7 @@
   deadline: ["2026-07-13 23:59"]
   comment: Abstract Submission Deadline 06th July 2026.
   place: Bali, Indonesia
-  tags: [CONF, DS]
+  tags: [CONF, DS, SOFT]
 
 - name: ISSRE
   year: 2026
@@ -190,15 +190,15 @@
   place: CWI, Amsterdam, Netherlands
   tags: [Bench, CONF, DS]
 
-- name: ICPE
-  year: 2026
-  date: May 4-8
-  description: International Conference on Performance Engineering
-  link: https://icpe.spec.org/
-  deadline: ["2025-11-01 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Florence, Italy
-  tags: [Bench, CONF, DS]
+# - name: ICPE
+#   year: 2026
+#   date: May 4-8
+#   description: International Conference on Performance Engineering
+#   link: https://icpe.spec.org/
+#   deadline: ["2025-11-01 23:59"]
+#   comment: Abstract registration required (1 week before deadline AoE).
+#   place: Florence, Italy
+#   tags: [Bench, CONF, DS]
 
 # DS
 
@@ -212,16 +212,6 @@
   comment: Abstract registration required (1 week before deadline AoE).
   place: Edinburgh, UK
   tags: [DS, CONF, TOP4]
-
-- name: ICDCS
-  year: 2026
-  date: July
-  description: International Conference on Distributed Computing Systems
-  link: https://icdcs2025.icdcs.org/
-  deadline: ["2025-12-01 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Somewhere
-  tags: [CONF, DS]
 
 - name: SIGCOMM
   year: 2026
