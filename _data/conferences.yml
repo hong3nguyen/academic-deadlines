@@ -100,12 +100,11 @@
 
 - name: ICSOC
   year: 2026
-  date: November 2026 (TBC)
+  date: December 1 - 4
   description: 24th International Conference on Service-Oriented Computing
-  link: http://www.icsoc.org/
-  deadline: ["2026-05-15 23:59"]
-  comment: Dates and location to be confirmed. Deadline is estimated based on previous years.
-  place: TBC
+  link: https://icsoc2026.it.p.lodz.pl/index.html
+  deadline: ["2026-07-12 23:59"]
+  place: Lodz, Poland
   tags: [CONF, DS, SOFT]
 
 - name: PerCom
@@ -117,17 +116,6 @@
   comment: Main deadline has passed. Late
   place: TBC
   tags: [CONF, DS, SOFT]
-
-- name: ICSOC
-  year: 2025
-  date: December 1 - 4
-  description: 23rd International Conference on Service-Oriented Computing
-  link: https://icsoc2025.hit.edu.cn/
-  #deadline: ["2025-07-15 23:59"]
-  deadline: ["2025-07-15 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Shenzhen, China
-  tags: [SOFT, CONF]
 
 - name: ICSE
   year: 2026
@@ -285,19 +273,19 @@
   tags: [CONF, DS, AI, SEC, PRIV, SOFT]
 
 - name: ICSA
-  year: 2026
-  date: June 22 - 26
-  description: The 23rd IEEE International Conference on Software Architecture (ICSA 2026)
-  link: https://conf.researchr.org/home/icsa-2026
-  deadline: ["2025-12-05 23:59"]
+  year: 2027
+  date: March 8 - 12
+  description: The 24th IEEE International Conference on Software Architecture (ICSA 2027)
+  link: https://conf.researchr.org/home/icsa-2027
+  deadline: ["2026-11-04 23:59"]
   comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
-  place: Netherlands, Amsterdam
+  place: Australia, Sydney
   tags: [CONF, AI, SOFT]
 # AAAI AIware ARES ASE AsiaCCS CAIN CCGrid DEBS DSN EuroS&P EuroSys FSE ICDCN ICDCS ICPE ICSA ICSE ICSOC PerCom PERFORMANCE "RCF fellowship" SIGCOMM SRDS
-# Conferences needing verification for 2026:
-# - ICDCS 2026 (ICDCS 2025 was July 20-23 in Glasgow - deadline likely passed)
-# - DEBs 2026 (DEBs 2025 deadline has passed)
-# - ICPE 2026 (information not yet available)
+# Conferences needing verification for 2027:
+# - ICDCS 2027 (ICDCS 2026 was July 20-23 in Glasgow - deadline likely passed)
+# - DEBs 2027 (DEBs 2026 deadline has passed)
+# - ICPE 2027 (information not yet available)
 # - ASE 2026 (information not yet available)
 # - SRDS 2026 (information not yet available)
 # - ARES 2026 (information not yet available)
