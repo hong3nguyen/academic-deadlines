@@ -1,3 +1,13 @@
+- name: ECSA
+  year: 2026
+  date: Sep 07 - 11
+  description: 2026 European Conference on Software Architecture
+  link: https://conf.researchr.org/home/ecsa-2026
+  deadline: ["2026-03-2& 23:59"]
+  comment: Abstract deadline need to be followed
+  place: Bolzano, Italy
+  tags: [CONF, DS, SOFT]
+
 - name: SERVICES
   year: 2026
   date: July 13 - 18
