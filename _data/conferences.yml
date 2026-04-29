@@ -1,9 +1,19 @@
+- name: ESORIC
+  year: 2026
+  date: Sep 14 - 18
+  description: 2026 European Symposium on Research in Computer Security
+  link: https://conf.researchr.org/home/ecsa-2026
+  deadline: ["2026-04-21 & 23:59"]
+  comment: Abstract deadline need to be followed
+  place: Rome, Italy
+  tags: [CONF, DS, SOFT, SEC]
+
 - name: ECSA
   year: 2026
   date: Sep 07 - 11
   description: 2026 European Conference on Software Architecture
   link: https://conf.researchr.org/home/ecsa-2026
-  deadline: ["2026-03-2& 23:59"]
+  deadline: ["2026-03-27 23:59"]
   comment: Abstract deadline need to be followed
   place: Bolzano, Italy
   tags: [CONF, DS, SOFT]
