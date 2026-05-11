@@ -1,3 +1,13 @@
+- name: WWW
+  year: 2027
+  date: April 13 - 17
+  description: 2027 ACM web conference
+  link: https://thewebconf.org/
+  deadline: ["2026-10-07 & 23:59"]
+  comment: Abstract deadline need to be followed
+  place: Dublin, Ireland
+  tags: [CONF, DS, SOFT, SEC]
+
 - name: ESORIC
   year: 2026
   date: Sep 14 - 18
