@@ -1,3 +1,13 @@
+- name: WISE
+  year: 2026
+  date: November 2 - 5
+  description: International Conference on Web Information Systems Engineering
+  link: https://conferences.sigappfr.org/wise2026/call-for-papers
+  deadline: ["2026-06-17 23:59"]
+  comment: Multiple tracks and deadlines (varies by affiliated conferences; see website).
+  place: Italy
+  tags: [CONF, DS, SOFT]
+
 - name: SCC or SSE
   year: 2026
   date: July 13 - 18
