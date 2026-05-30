@@ -27,3 +27,15 @@ filter3:
     tag: CORE-C
   - name: National/Unranked
     tag: OTHERS
+
+filter4:
+  - name: Distributed-system
+    tag: DS
+  - name: Software
+    tag: SOFT
+  - name: Benchmarking
+    tag: Bench
+
+filter5:
+  - name: Funding/grant
+    tag: FUND
