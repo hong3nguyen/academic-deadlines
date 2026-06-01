@@ -1,0 +1,148 @@
+# Updated conferences with missing tags filled in
+- name: ARES
+  year: 2026
+  date: August 24 - 27
+  description: The 21st International Conference on Availability, Reliability and Security
+  link: https://www.ares-conference.eu/
+  deadline: ["2026-03-09 23:59"]
+  comment: Abstract deadline March 02, 2026.
+  place: Linköping, Sweden
+  tags: [CONF, SEC, PRIV, ASTAR, TOP4, CORE-A]
+
+- name: ICSE
+  year: 2026
+  date: April 12 - 18
+  description: 48th International Conference on Software Engineering
+  link: https://conf.researchr.org/home/icse-2026
+  deadline: ["2025-07-18 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: Rio de Janeiro, Brazil
+  tags: [SOFT, CONF, TOP4, ASTAR, CORE-A]
+
+- name: EuroS&P
+  year: 2026
+  date: June 1-6
+  description: 10th IEEE European Symposium on Security and Privacy
+  link: https://eurosp2026.ieee-security.org
+  deadline: ["2025-10-25 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: Somewhere
+  tags: [CONF, DS, TOP4, ASTAR, CORE-A]
+
+- name: ICDCN
+  year: 2026
+  date: January 06 - 09
+  description: 27th International Conference on Distributed Computing and Networking
+  link: https://conf.researchr.org/home/icdcn-2026
+  deadline: ["2025-07-25 23:59"]
+  comment: Abstract registration may be required (check conference website)
+  place: Nara, Japan
+  tags: [DIST, CONF, TOP4, CORE-B]
+
+- name: CCGrid
+  year: 2026
+  date: May 18 - 21
+  description: The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing
+  link: https://ccgrid2026.cdms.westernsydney.edu.au/
+  deadline: ["2025-12-15 23:59"]
+  comment: Abstract Submission Deadline 1st December 2025.
+  place: Sydney, Australia
+  tags: [CONF, DS, AI, SEC, PRIV, SOFT, CORE-B]
+
+- name: DSN
+  year: 2026
+  date: June 22 - 25
+  description: The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+  link: https://dsn2026.github.io/
+  deadline: ["2025-12-04 23:59"]
+  comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
+  place: Charlotte, USA
+  tags: [CONF, DS, AI, SEC, PRIV, SOFT, CORE-A]
+
+- name: ICSA
+  year: 2027
+  date: March 8 - 12
+  description: The 24th IEEE International Conference on Software Architecture (ICSA 2027)
+  link: https://conf.researchr.org/home/icsa-2027
+  deadline: ["2026-11-04 23:59"]
+  comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
+  place: Australia, Sydney
+  tags: [CONF, AI, SOFT, TOP4, CORE-A]
+
+- name: PerCom
+  year: 2026
+  date: March 16 - 20
+  description: IEEE International Conference on Pervasive Computing and Communications
+  link: https://percom.org/
+  deadline: ["2025-09-26 23:59"]
+  comment: Main deadline has passed. Late
+  place: TBC
+  tags: [CONF, DS, SOFT, CORE-B]
+
+- name: RISC
+  year: 2026
+  description: IEEE International Conference on Resilience and Integrated Security for Space and Critical Systems
+  link: https://www.sis.pitt.edu/lersais/conference/risc/2026/call-for-papers/
+  deadline:
+    - "2026-06-01 23:59"
+    - "2026-08-15 23:59"
+  date: "November 4-6"
+  place: San Jose, CA, USA
+  tags: [SEC, CONF, CORE-B]
+
+- name: SecDev
+  year: 2026
+  description: Secure Development Conference
+  link: https://conf.researchr.org/home/secdev-2026
+  deadline: ["2026-02-05 23:59"]
+  date: "July 5-6"
+  place: Montreal, Canada
+  tags: [SEC, PRIV, CONF, CORE-B]
+
+- name: CNS
+  year: 2026
+  description: IEEE Conference on Communications and Network Security
+  link: https://cns2026.ieee-cns.org/
+  deadline: ["2026-05-18 23:59"]
+  date: September 14 - 17
+  place: Newark, DE, USA
+  tags: [SEC, PRIV, CONF, CORE-B]
+
+- name: ICISS
+  year: 2026
+  description: International Conference on Information Systems Security
+  link: https://iciss.in/cfp/
+  deadline:
+    - "2026-07-10 23:59"
+  date: December 16-20
+  place: CMI Chennai, India
+  tags: [SEC, PRIV, CONF, CORE-B]
+
+- name: Crypto Valley Conference
+  year: 2025
+  description: Crypto Valley Conference on Blockchain Technology 2025
+  link: https://cryptovalleyconference.com/call-for-papers
+  deadline: ["2025-03-13 23:59"]
+  date: June 5-6
+  place: Rotkreuz, Switzerland
+  tags: [SEC, PRIV, CRYPTO, CONF, CORE-B]
+
+- name: ARES
+  year: 2026
+  date: August 24 - 27
+  description: The 21st International Conference on Availability, Reliability and Security
+  link: https://www.ares-conference.eu/
+  deadline: ["2026-03-09 23:59"]
+  comment: Abstract deadline March 02, 2026.
+  place: Linköping, Sweden
+  tags: [CONF, SEC, PRIV, ASTAR, TOP4, CORE-A]
+
+- name: XR Security
+  year: 2026
+  description: Workshop on Enhancing Security, Privacy, and Trust in Extended Reality (XR) Systems
+  link: https://xrsecurity.github.io/2026/
+  comment: Co-located with MobiCom
+  deadline: ["2026-06-19 23:59"]
+  date: October 30
+  place: Austin, USA
+  tags: [SEC, PRIV, SHOP, CORE-B]
