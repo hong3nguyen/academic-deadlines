@@ -1821,13 +1821,13 @@
   tags: [DIST, CONF]
 
 - name: RCF fellowship
-  year: 2026
+  year: 2027
   date: Sep 2026 - Aug 2030
   description: Fellowship funding
-  link: https://www.aka.fi/en/research-funding/apply-for-funding/calls-for-applications/for-researchers/2026-academy-research-fellowships-all-research-fields/
+  link: https://www.aka.fi/en/about-the-rcf/whats-new/press-releases/2026/advance-information-on-rcf-call-schedules-for-autumn-2026/
   #deadline: ["2025-07-15 23:59"]
-  deadline: ["2025-11-12 23:59"]
-  comment: Internal deadline is 10 Oct 2025
+  deadline: ["2026-11-18 23:59"]
+  comment: Internal deadline is 10 Oct 2026
   place: Helsinki, Finland
   tags: [FUND]
 
