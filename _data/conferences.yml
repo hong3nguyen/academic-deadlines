@@ -1717,13 +1717,13 @@
   tags: [SEC, PRIV, SHOP, OTHERS]
 
 - name: CAIN
-  year: 2026
-  date: April 12 - 18 (together with ICSE)
+  year: 2027
+  date: April 25 - 1 May (together with ICSE)
   description: International Conference on AI Engineering Software Engineering For AI
-  link: https://conf.researchr.org/home/cain-2026
+  link: https://conf.researchr.org/home/cain-2027
   deadline: ["2025-10-23 23:59"]
   comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
-  place: Rio de Janeiro, Brazil
+  place: Dublin, Ireland
   tags: [SOFT, AI, CONF]
 
 - name: AAAI
@@ -2394,3 +2394,13 @@
   place: The Hague, The Netherlands
   tags: [SEC, SHOP, OTHERS]
   comment: Co-located with CCS 2026
+
+- name: COMPSAC
+  description: COMPSAC, the IEEE Computer Society’s flagship conference on Computers, Software, and Applications.
+  year: 2027
+  link: https://ieeecompsac.computer.org/2027
+  deadline: ["2027-02-20 23:59"]
+  date: July 7-10
+  place: Tokyo, Japan
+  tags: [SOFT, AI, OTHERS]
+  comment: Co-located with CCS 2027
