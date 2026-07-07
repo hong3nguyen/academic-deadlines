@@ -1878,13 +1878,6 @@
 
 # Recommended action: Check individual conference websites for 2026 calls for papers
 # Many conferences announce their 2026 calls in late 2025
-  link: https://spritz.math.unipd.it/events/2025/CPS-Sec2025/
-  deadline:
-    - "2025-07-10 23:59"
-  comment: In conjunction with IEEE CNS
-  date: September 11
-  place: Avignon, France
-  tags: [SEC, SHOP, OTHERS]
 
 - name: OPTIMIST
   description: Workshop on Open Tools, Interfaces and Metrics for Implementation Security Testing
