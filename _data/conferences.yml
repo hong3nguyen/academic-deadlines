@@ -2404,3 +2404,12 @@
   place: Tokyo, Japan
   tags: [SOFT, AI, OTHERS]
   comment: Co-located with CCS 2027
+
+- name: ICA
+  description: The IEEE International Conference on Agentic AI (IEEE ICA)
+  year: 2026
+  link: https://attend.ieee.org/ica-2026/
+  deadline: ["2026-09-15 23:59"]
+  date: December 14-17
+  place: Kumamoto, Japan
+  tags: [SOFT, AI, OTHERS]
