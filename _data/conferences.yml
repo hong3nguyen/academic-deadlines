@@ -6,7 +6,7 @@
   deadline: ["2026-06-17 23:59"]
   comment: Multiple tracks and deadlines (varies by affiliated conferences; see website).
   place: Italy
-  tags: [CONF, DS, SOFT]
+  tags: [CONF, DS, SOFT, CORE-B]
 
 - name: SCC or SSE
   year: 2026
@@ -16,7 +16,7 @@
   deadline: ["2026-03-22 23:59"]
   comment: Multiple tracks and deadlines (varies by affiliated conferences; see website).
   place: Sydney, Australia
-  tags: [CONF, DS, SOFT]
+  tags: [CONF, DS, SOFT, CORE-B]
 
 - name: WWW
   year: 2027
@@ -26,7 +26,7 @@
   deadline: ["2026-10-07 & 23:59"]
   comment: Abstract deadline need to be followed
   place: Dublin, Ireland
-  tags: [CONF, DS, SOFT, SEC]
+  tags: [CONF, DS, SOFT, SEC, ASTAR]
 
 - name: ESORIC
   year: 2026
@@ -36,7 +36,7 @@
   deadline: ["2026-04-21 & 23:59"]
   comment: Abstract deadline need to be followed
   place: Rome, Italy
-  tags: [CONF, DS, SOFT, SEC]
+  tags: [CONF, DS, SOFT, SEC, CORE-A]
 
 - name: ECSA
   year: 2026
@@ -46,9 +46,9 @@
   deadline: ["2026-03-27 23:59"]
   comment: Abstract deadline need to be followed
   place: Bolzano, Italy
-  tags: [CONF, DS, SOFT]
+  tags: [CONF, DS, SOFT, CORE-A]
 
-- name: SERVICES
+- name: ICWS
   year: 2026
   date: July 13 - 18
   description: 2026 IEEE World Congress on Services (SERVICES 2026)
@@ -56,7 +56,7 @@
   deadline: ["2026-03-22 23:59"]
   comment: Multiple tracks and deadlines (varies by affiliated conferences; see website).
   place: Sydney, Australia
-  tags: [CONF, DS, SOFT]
+  tags: [CONF, DS, SOFT, OTHERS, CORE-A]
 
 - name: APSEC
   year: 2026
@@ -66,7 +66,7 @@
   deadline: ["2026-07-13 23:59"]
   comment: Abstract Submission Deadline 06th July 2026.
   place: Bali, Indonesia
-  tags: [CONF, DS, SOFT]
+  tags: [CONF, DS, SOFT, CORE-C]
 
 - name: ISSRE
   year: 2026
@@ -76,7 +76,7 @@
   deadline: ["2026-04-17 23:59"]
   comment: Abstract Submission Deadline 10th April 2026.
   place: Cyprus
-  tags: [CONF, DS]
+  tags: [CONF, DS, CORE-A]
 
 - name: ICPP
   year: 2026
@@ -86,7 +86,7 @@
   deadline: ["2026-04-24 23:59"]
   comment: Abstract Submission Deadline 24th April 2026.
   place: Singapore
-  tags: [CONF, DS]
+  tags: [CONF, DS, CORE-B]
 
 - name: DEBS
   year: 2026
@@ -96,7 +96,7 @@
   deadline: ["2026-02-20 23:59"]
   comment: Abstract Submission Deadline 13th February 2026.
   place: Lisbon, Portugal
-  tags: [CONF, DS]
+  tags: [CONF, DS, OTHERS]
 
 - name: ICPE
   year: 2026
@@ -106,7 +106,7 @@
   deadline: ["2025-11-10 23:59"]
   comment: Main research track deadline has passed.
   place: Florence, Italy
-  tags: [CONF, Bench, SOFT]
+  tags: [CONF, Bench, SOFT, CORE-B]
 
 - name: ICDCS
   year: 2026
@@ -116,7 +116,7 @@
   deadline: ["2026-01-21 23:59"]
   comment: Abstract and Paper submission deadline.
   place: Seoul, South Korea
-  tags: [CONF, DS]
+  tags: [CONF, DS, CORE-A]
 
 - name: ASE
   year: 2026
@@ -126,7 +126,7 @@
   deadline: ["2026-03-26 23:59"]
   comment: Abstract deadline usually a week prior (TBC).
   place: Munich, Germany
-  tags: [CONF, SOFT, AI]
+  tags: [CONF, SOFT, AI, ASTAR]
 
 - name: SRDS
   year: 2026
@@ -136,7 +136,7 @@
   deadline: ["2026-05-15 23:59"]
   comment: Dates and location to be confirmed. Deadline is estimated based on previous years.
   place: TBC
-  tags: [CONF, DS]
+  tags: [CONF, DS, CORE-B]
 
 # Security and Privacy
 
@@ -1215,7 +1215,7 @@
   deadline: ["2026-05-18 23:59"]
   date: September 14 - 17
   place: Newark, DE, USA
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: HASP
   description: Hardware and Architectural Support for Security and Privacy
@@ -1301,7 +1301,7 @@
     - "2025-12-05 23:59"
   date: February 27
   place: San Diego, California, USA
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: PRISM
   description: Workshop on Attack Provenance, Reasoning, and Investigation for Security in the Monitored Environment
@@ -1324,7 +1324,7 @@
     - "2026-03-03 23:59"
   date: August 10–11
   place: Baltimore, MD, USA
-  tags: [SEC, PRIV, CRYPTO, CONF]
+  tags: [SEC, PRIV, CRYPTO, CONF, OTHERS]
 
 - name: SafeThings
   description: IEEE/ACM Workshop on the Internet of Safe Things
@@ -1436,7 +1436,7 @@
     - "2026-07-10 23:59"
   date: December 16-20
   place: CMI Chennai, India
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: CPSS
   description: ACM Cyber-Physical System Security Workshop
@@ -1466,7 +1466,7 @@
   deadline: ["2025-02-20 23:59"]
   date: June 30
   place: Venezia, Italy
-  tags: [SEC, PRIV]
+  tags: [SEC, PRIV, OTHERS]
 
 - name: IWSEC
   description: International Workshop on Security
@@ -1526,7 +1526,7 @@
     - "2026-07-16 23:59"
   date: November 5–6
   place: Detroit, MI, USA
-  tags: [SEC, PRIV, CONF]
+  tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: CCSW
   description: The ACM Cloud Computing Security Workshop
@@ -1546,7 +1546,7 @@
   comment: Initial submission with abstract required Oct 31st.
   date: April 14-16
   place: Saint-Malo, France
-  tags: [CRYPTO, CONF]
+  tags: [CRYPTO, CONF, CORE-C]
 
 - name: WAITI
   description: Workshop on AI for Cyber Threat Intelligence
@@ -1614,7 +1614,7 @@
   deadline: ["2025-03-13 23:59"]
   date: June 5-6
   place: Rotkreuz, Switzerland
-  tags: [SEC, PRIV, CRYPTO, CONF]
+  tags: [SEC, PRIV, CRYPTO, CONF, OTHERS]
 
 - name: ACM SaT-CPS
   description: ACM Workshop on Secure and Trustworthy Cyber Physical Systems
@@ -1656,7 +1656,7 @@
   place: Rome, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP, OTHERS]
 
-- name: ares
+- name: ARES
   year: 2026
   date: August 24 - 27
   description: The 21st International Conference on Availability, Reliability and Security
@@ -1664,7 +1664,7 @@
   deadline: ["2026-03-09 23:59"]
   comment: Abstract deadline March 02, 2026.
   place: Linköping, Sweden
-  tags: [CONF, SEC, PRIV]
+  tags: [CONF, SEC, PRIV, CORE-B]
 
 - name: ICSOC
   year: 2026
@@ -1673,7 +1673,7 @@
   link: https://icsoc2026.it.p.lodz.pl/index.html
   deadline: ["2026-07-12 23:59"]
   place: Lodz, Poland
-  tags: [CONF, DS, SOFT]
+  tags: [CONF, DS, SOFT, CORE-A]
 
 - name: PerCom
   year: 2026
@@ -1683,7 +1683,7 @@
   deadline: ["2025-09-26 23:59"]
   comment: Main deadline has passed. Late
   place: TBC
-  tags: [CONF, DS, SOFT]
+  tags: [CONF, DS, SOFT, ASTAR]
 
 - name: ICSE
   year: 2026
@@ -1703,7 +1703,7 @@
   deadline: ["2025-07-25 23:59"]
   comment: Intent Registration (Optional).
   place: Seoul, South Korea
-  tags: [SOFT, CONF, AI]
+  tags: [SOFT, CONF, AI, OTHERS]
 
 - name: HS3
   description: Workshop on Hardware-Supported Software Security
@@ -1721,10 +1721,10 @@
   date: April 25 - 1 May (together with ICSE)
   description: International Conference on AI Engineering Software Engineering For AI
   link: https://conf.researchr.org/home/cain-2027
-  deadline: ["2025-10-23 23:59"]
+  deadline: ["2026-10-23 23:59"]
   comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
   place: Dublin, Ireland
-  tags: [SOFT, AI, CONF]
+  tags: [SOFT, AI, CONF, CORE-B]
 
 - name: AAAI
   year: 2026
@@ -1755,7 +1755,7 @@
   deadline: ["2025-06-15 23:59"]
   comment: Abstract registration required (1 week before deadline AoE).
   place: CWI, Amsterdam, Netherlands
-  tags: [Bench, CONF, DS]
+  tags: [Bench, CONF, DS, OTHERS]
 
 # - name: ICPE
 #   year: 2026
@@ -1818,7 +1818,7 @@
   deadline: ["2025-07-25 23:59"]
   comment: Abstract registration may be required (check conference website)
   place: Nara, Japan
-  tags: [DIST, CONF]
+  tags: [DS, CONF, OTHERS]
 
 - name: RCF fellowship
   year: 2027
@@ -1839,7 +1839,7 @@
   deadline: ["2025-12-15 23:59"]
   comment: Abstract Submission Deadline 1st December 2025.
   place: Sydney, Australia
-  tags: [CONF, DS, AI, SEC, PRIV, SOFT]
+  tags: [CONF, DS, AI, SEC, PRIV, SOFT, CORE-B]
 
 - name: DSN
   year: 2026
@@ -1849,7 +1849,7 @@
   deadline: ["2025-12-04 23:59"]
   comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
   place: Charlotte, USA
-  tags: [CONF, DS, AI, SEC, PRIV, SOFT]
+  tags: [CONF, DS, AI, SEC, PRIV, SOFT, CORE-A]
 
 - name: ICSA
   year: 2027
@@ -1859,7 +1859,7 @@
   deadline: ["2026-11-04 23:59"]
   comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
   place: Australia, Sydney
-  tags: [CONF, AI, SOFT]
+  tags: [CONF, AI, SOFT, CORE-A]
 # AAAI AIware ARES ASE AsiaCCS CAIN CCGrid DEBS DSN EuroS&P EuroSys FSE ICDCN ICDCS ICPE ICSA ICSE ICSOC PerCom PERFORMANCE "RCF fellowship" SIGCOMM SRDS
 # Conferences needing verification for 2027:
 # - ICDCS 2027 (ICDCS 2026 was July 20-23 in Glasgow - deadline likely passed)
@@ -1937,7 +1937,7 @@
   deadline: ["2026-06-01 23:59"]
   date: December 2-4
   place: Bratislava, Slovakia
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, OTHERS]
 
 - name: ADHOCNETS
   description: EAI International Conference on Ad Hoc Networks
@@ -1946,7 +1946,7 @@
   deadline: ["2025-10-20 23:59"]
   date: December 4-5
   place: Istanbul, Turkey
-  tags: [SEC, CONF]
+  tags: [SEC, CONF, OTHERS]
 
 - name: EuroSec
   description: European Workshop on Systems Security
@@ -2367,7 +2367,7 @@
   deadline: ["2026-06-19 23:59"]
   date: October 30
   place: Austin, USA
-  tags: [SEC, PRIV, SHOP, ]
+  tags: [SEC, PRIV, SHOP, OTHERS]
 
 - name: WIFS
   description: IEEE International Workshop on Information Forensics and Security 
