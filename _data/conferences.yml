@@ -865,6 +865,17 @@
   place: Oakland, CA, USA
   tags: [SEC, CONF, CORE-A]
 
+- name: EASE
+  description: International Conference on Evaluation and Assessment in Software Engineering
+  year: 2027
+  link: https://conf.researchr.org/home/ease-2027
+  dblp: https://dblp.org/db/conf/ease/index.html
+  deadline: ["2027-01-15 23:59", "2027-01-22 23:59"]
+  comment: Abstract deadline January 15, 2027. Short papers/industry abstracts due February 22, 2027.
+  date: June 15 - 18
+  place: Hanoi, Vietnam
+  tags: [CONF, SOFT, CORE-A]
+
 # Others, less frequently updated
 - name: Security for Space Systems (3S)
   year: 2025
@@ -1735,6 +1746,17 @@
   comment: Abstract registration Optional (1 week before deadline AoE).
   place: Singapore
   tags: [AI, CONF, TOP4]
+
+- name: AAMAS
+  year: 2027
+  date: May 3 - 7
+  description: 26th International Conference on Autonomous Agents and Multiagent Systems
+  link: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+  dblp: https://dblp.org/db/conf/atal/index.html
+  deadline: ["2026-10-01 23:59", "2026-10-08 23:59"]
+  comment: Main track deadline has passed. Still open - Blue Sky Ideas papers due November 12, 2026; AAAI Fast Track due December 11, 2026; workshop proposals due October 29, 2026.
+  place: Hanoi, Vietnam
+  tags: [CONF, AI, CORE-A]
 
 - name: FSE
   year: 2026
