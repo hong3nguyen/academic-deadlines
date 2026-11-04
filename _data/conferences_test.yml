@@ -50,13 +50,15 @@
   tags: [CONF, DS, AI, SEC, PRIV, SOFT, CORE-B]
 
 - name: DSN
-  year: 2026
+  year: 2027
   date: June 22 - 25
-  description: The 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
-  link: https://dsn2026.github.io/
-  deadline: ["2025-12-04 23:59"]
-  comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
-  place: Charlotte, USA
+  description: The 57th Annual IEEE International Conference on Dependable Systems and Networks
+  link: https://dsn2027-berlin.github.io/
+  deadline:
+    - "2026-11-25 23:59"
+    - "2026-12-02 23:59"
+  comment: Abstract deadline Nov 25, 2026 (AoE); used for bidding.
+  place: Berlin, Germany
   tags: [CONF, DS, AI, SEC, PRIV, SOFT, CORE-A]
 
 - name: ICSA
