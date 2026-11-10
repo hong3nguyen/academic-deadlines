@@ -1858,7 +1858,7 @@
 # - Ubicomp 2026 (information not yet available)
 # - ISSRE 2026 (information not yet available)
 # - ICST 2026 (information not yet available)
-# - Middleware 2026 (information not yet available)
+# - Middleware 2027 (added)
 # - ISSRE 2026 (information not yet available)
 
 # Recommended action: Check individual conference websites for 2026 calls for papers
@@ -2391,3 +2391,23 @@
   date: December 14-17
   place: Kumamoto, Japan
   tags: [SOFT, AI, OTHERS]
+
+- name: Middleware
+  year: 2027
+  date: Dec 13 - 17
+  description: 28th ACM International Middleware Conference
+  link: https://middleware-conf.github.io/2027/
+  deadline: ["2026-12-04 23:59", "2027-06-04 23:59"]
+  comment: Two submission cycles. Abstract registration required 1 week before each deadline (Nov 27, 2026 / May 28, 2027).
+  place: Kyoto, Japan
+  tags: [CONF, DS, CORE-A]
+
+- name: DCOSS-IoT
+  year: 2027
+  date: June 21 - 23
+  description: 23rd International Conference on Distributed Computing in Smart Systems and the Internet of Things
+  link: https://dcoss.org/
+  deadline: ["2027-01-20 23:59", "2027-01-27 23:59"]
+  comment: Abstract submission deadline January 20, 2027.
+  place: Montreal, Canada
+  tags: [CONF, DS, CORE-B]
