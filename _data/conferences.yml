@@ -604,19 +604,6 @@
   place: Los Angeles, CA, USA
   tags: [SEC, CONF, CORE-A]
 
-- name: DSN
-  description: The International Conference on Dependable Systems and Networks
-  year: 2027
-  link: https://dsn2027-berlin.github.io/
-  dblp: https://dblp.org/db/conf/dsn/index.html
-  deadline:
-    - "2026-11-25 23:59"
-    - "2026-12-02 23:59"
-  comment: Abstract deadline Nov 25, paper deadline Dec 2, 2026 (AoE).
-  date: June 22-25
-  place: Berlin, Germany
-  tags: [SEC, CONF, CORE-A]
-
 - name: ACNS
   description: International Conference on Applied Cryptography and Network Security
   year: 2027
@@ -659,8 +646,8 @@
   link: https://www.ares-conference.eu/
   dblp: https://dblp.org/db/conf/IEEEares/index.html
   deadline: ["2026-03-09 23:59"]
-  note: "Abstract registration deadline March 2, 2026."
-  date: August 24–27
+  comment: Abstract registration deadline March 2, 2026.
+  date: August 24 - 27
   place: Linköping, Sweden
   tags: [SEC, PRIV, CONF, CORE-B]
 
@@ -837,15 +824,6 @@
   comment: Abstract registration required (1 week before deadline AoE).
   date: April 25 - May 1
   place: Dublin, Ireland
-  tags: [SEC, CONF, ASTAR]
-
-- name: ASE
-  description: IEEE/ACM Automated Software Engineering
-  year: 2026
-  link: https://conf.researchr.org/home/ase-2026
-  deadline: ["2026-03-26 23:59"]
-  date: October 12 - 16 
-  place: Munich, Germany
   tags: [SEC, CONF, ASTAR]
 
 # Change name to FSE, but FSE is already used for the IACR Conference on Fast Software Encryption (FSE)
@@ -1669,16 +1647,6 @@
   place: Rome, Italy
   tags: [SEC, PRIV, CRYPTO, SHOP, OTHERS]
 
-- name: ARES
-  year: 2026
-  date: August 24 - 27
-  description: The 21st International Conference on Availability, Reliability and Security
-  link: https://www.ares-conference.eu/
-  deadline: ["2026-03-09 23:59"]
-  comment: Abstract deadline March 02, 2026.
-  place: Linköping, Sweden
-  tags: [CONF, SEC, PRIV, CORE-B]
-
 - name: ICSOC
   year: 2026
   date: December 1 - 4
@@ -1860,10 +1828,11 @@
   date: June 22 - 25
   description: The 57th Annual IEEE International Conference on Dependable Systems and Networks
   link: https://dsn2027-berlin.github.io/
+  dblp: https://dblp.org/db/conf/dsn/index.html
   deadline:
     - "2026-11-25 23:59"
     - "2026-12-02 23:59"
-  comment: Abstract deadline Nov 25, 2026 (AoE); used for bidding.
+  comment: Abstract deadline Nov 25, paper deadline Dec 2, 2026 (AoE).
   place: Berlin, Germany
   tags: [CONF, DS, AI, SEC, PRIV, SOFT, CORE-A]
 
