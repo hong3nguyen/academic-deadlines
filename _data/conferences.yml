@@ -1,141 +1,131 @@
 - name: WISE
-  year: 2026
+  year: 2027
   date: November 2 - 5
   description: International Conference on Web Information Systems Engineering
-  link: https://conferences.sigappfr.org/wise2026/call-for-papers
-  deadline: ["2026-06-17 23:59"]
-  comment: Multiple tracks and deadlines (varies by affiliated conferences; see website).
-  place: Italy
+  link: https://conferences.sigappfr.org/wise2027/call-for-papers
+  deadline: ["2027-06-17 23:59"]
+  comment: Multiple tracks and deadlines (varies by affiliated conferences; see website). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, SOFT, CORE-B]
 
 - name: SCC or SSE
-  year: 2026
+  year: 2027
   date: July 13 - 18
   description: IEEE INTERNATIONAL CONFERENCE ON SOFTWARE SERVICES ENGINEERING
-  link: https://services.conferences.computer.org/2026/info-for-authors/
-  deadline: ["2026-03-22 23:59"]
-  comment: Multiple tracks and deadlines (varies by affiliated conferences; see website).
-  place: Sydney, Australia
+  link: https://services.conferences.computer.org/2027/info-for-authors/
+  deadline: ["2027-03-22 23:59"]
+  comment: Multiple tracks and deadlines (varies by affiliated conferences; see website). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, SOFT, CORE-B]
 
 - name: WWW
-  year: 2027
+  year: 2028
   date: April 13 - 17
-  description: 2027 ACM web conference
+  description: 2028 ACM web conference
   link: https://thewebconf.org/
-  deadline: ["2026-10-07 & 23:59"]
-  comment: Abstract deadline need to be followed
-  place: Dublin, Ireland
+  deadline: ["2027-10-07 23:59"]
+  comment: Abstract deadline need to be followed. Deadlines estimated from the 2027 edition; official 2028 dates TBA.
+  place: TBA
   tags: [CONF, DS, SOFT, SEC, ASTAR]
 
-- name: ESORIC
-  year: 2026
-  date: Sep 14 - 18
-  description: 2026 European Symposium on Research in Computer Security
-  link: https://conf.researchr.org/home/ecsa-2026
-  deadline: ["2026-04-21 & 23:59"]
-  comment: Abstract deadline need to be followed
-  place: Rome, Italy
-  tags: [CONF, DS, SOFT, SEC, CORE-A]
-
 - name: ECSA
-  year: 2026
+  year: 2027
   date: Sep 07 - 11
-  description: 2026 European Conference on Software Architecture
-  link: https://conf.researchr.org/home/ecsa-2026
-  deadline: ["2026-03-27 23:59"]
-  comment: Abstract deadline need to be followed
-  place: Bolzano, Italy
+  description: 2027 European Conference on Software Architecture
+  link: https://conf.researchr.org/home/ecsa-2027
+  deadline: ["2027-03-27 23:59"]
+  comment: Abstract deadline need to be followed. Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, SOFT, CORE-A]
 
 - name: ICWS
-  year: 2026
+  year: 2027
   date: July 13 - 18
-  description: 2026 IEEE World Congress on Services (SERVICES 2026)
-  link: https://services.conferences.computer.org/2026/info-for-authors/
-  deadline: ["2026-03-22 23:59"]
-  comment: Multiple tracks and deadlines (varies by affiliated conferences; see website).
-  place: Sydney, Australia
+  description: 2027 IEEE World Congress on Services (SERVICES 2027)
+  link: https://services.conferences.computer.org/2027/info-for-authors/
+  deadline: ["2027-03-22 23:59"]
+  comment: Multiple tracks and deadlines (varies by affiliated conferences; see website). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, SOFT, OTHERS, CORE-A]
 
 - name: APSEC
-  year: 2026
+  year: 2027
   date: Dec 7 - 10
-  description: 33rd Asia-Pacific Software Engineering Conference (APSEC 2026)
-  link: https://conf.researchr.org/home/apsec-2026
-  deadline: ["2026-07-13 23:59"]
-  comment: Abstract Submission Deadline 06th July 2026.
-  place: Bali, Indonesia
+  description: 33rd Asia-Pacific Software Engineering Conference (APSEC 2027)
+  link: https://conf.researchr.org/home/apsec-2027
+  deadline: ["2027-07-13 23:59"]
+  comment: Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, SOFT, CORE-C]
 
 - name: ISSRE
-  year: 2026
+  year: 2027
   date: Oct 20 - 23
-  description: 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2026)
-  link: https://cyprusconferences.org/issre2026/cfp-research/
-  deadline: ["2026-04-17 23:59"]
-  comment: Abstract Submission Deadline 10th April 2026.
-  place: Cyprus
+  description: 37th IEEE International Symposium on Software Reliability Engineering (ISSRE 2027)
+  link: https://cyprusconferences.org/issre2027/cfp-research/
+  deadline: ["2027-04-17 23:59"]
+  comment: Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, CORE-A]
 
 - name: ICPP
-  year: 2026
+  year: 2027
   date: Sep 28 - Oct 01
   description: The International Conference on Parallel Processing
-  link: https://icpp2026.github.io/call-for-papers/
-  deadline: ["2026-04-24 23:59"]
-  comment: Abstract Submission Deadline 24th April 2026.
-  place: Singapore
+  link: https://icpp2027.github.io/call-for-papers/
+  deadline: ["2027-04-24 23:59"]
+  comment: Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, CORE-B]
 
 - name: DEBS
-  year: 2026
+  year: 2027
   date: June 23 - 26
   description: The 20th ACM International Conference on Distributed and Event-based Systems
-  link: https://2026.debs.org/
-  deadline: ["2026-02-20 23:59"]
-  comment: Abstract Submission Deadline 13th February 2026.
-  place: Lisbon, Portugal
+  link: https://2027.debs.org/
+  deadline: ["2027-02-20 23:59"]
+  comment: Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, OTHERS]
 
 - name: ICPE
-  year: 2026
+  year: 2028
   date: May 04 - 08
   description: 17th ACM/SPEC International Conference on Performance Engineering
-  link: https://icpe2026.spec.org/
-  deadline: ["2025-11-10 23:59"]
-  comment: Main research track deadline has passed.
-  place: Florence, Italy
+  link: https://icpe2028.spec.org/
+  deadline: ["2027-11-10 23:59"]
+  comment: Deadlines estimated from the 2026 edition; official 2028 dates TBA.
+  place: TBA
   tags: [CONF, Bench, SOFT, CORE-B]
 
 - name: ICDCS
-  year: 2026
+  year: 2027
   date: June 22 - 25
   description: 46th IEEE International Conference on Distributed Computing Systems
-  link: https://icdcs2026.icdcs.org/
-  deadline: ["2026-01-21 23:59"]
-  comment: Abstract and Paper submission deadline.
-  place: Seoul, South Korea
+  link: https://icdcs2027.icdcs.org/
+  deadline: ["2027-01-21 23:59"]
+  comment: Abstract and Paper submission deadline. Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, CORE-A]
 
 - name: ASE
-  year: 2026
+  year: 2027
   date: October 12 - 16
   description: 41st IEEE/ACM International Conference on Automated Software Engineering
-  link: https://conf.researchr.org/home/ase-2026
-  deadline: ["2026-03-26 23:59"]
-  comment: Abstract deadline usually a week prior (TBC).
-  place: Munich, Germany
+  link: https://conf.researchr.org/home/ase-2027
+  deadline: ["2027-03-26 23:59"]
+  comment: Abstract deadline usually a week prior (TBC). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, SOFT, AI, ASTAR]
 
 - name: SRDS
-  year: 2026
-  date: September 2026 (TBC)
+  year: 2027
+  date: September 2027 (TBC)
   description: 45th International Symposium on Reliable Distributed Systems
   link: http://www.srds-conference.org/
-  deadline: ["2026-05-15 23:59"]
-  comment: Dates and location to be confirmed. Deadline is estimated based on previous years.
-  place: TBC
+  deadline: ["2027-05-15 23:59"]
+  comment: Dates and location to be confirmed. Deadline is estimated based on previous years. Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, CORE-B]
 
 # Security and Privacy
@@ -155,15 +145,15 @@
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2026
-  link: https://www.sigsac.org/ccs/CCS2026
+  year: 2027
+  link: https://www.sigsac.org/ccs/CCS2027
   dblp: https://dblp.org/db/conf/ccs/index.html
   deadline:
-    - "2026-01-14 23:59"
-    - "2026-04-29 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
+    - "2027-01-14 23:59"
+    - "2027-04-29 23:59"
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
   date: November 15-19
-  place: The Hague, The Netherlands
+  place: TBA
   tags: [SEC, PRIV, CONF, ASTAR, TOP4]
 
 - name: USENIX Security
@@ -181,26 +171,26 @@
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
-  year: 2027
-  link: https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/
+  year: 2028
+  link: https://www.ndss-symposium.org/ndss2028/submissions/call-for-papers/
   dblp: https://dblp.org/db/conf/ndss/index.html
   deadline:
-    - "2026-05-06 23:59"
-    - "2026-08-19 23:59"
+    - "2027-05-06 23:59"
+    - "2027-08-19 23:59"
   date: "March 22-26"
-  place: Seoul, Republic of Korea
+  place: TBA
   tags: [SEC, PRIV, CONF, ASTAR, TOP4]
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
-  year: 2026
-  link: https://sites.google.com/di.uniroma1.it/esorics2026/
+  year: 2027
+  link: https://sites.google.com/di.uniroma1.it/esorics2027/
   dblp: https://dblp.org/db/conf/esorics/index.html
   deadline:
-    - "2026-01-09 23:59"
-    - "2026-04-21 23:59"
+    - "2027-01-09 23:59"
+    - "2027-04-21 23:59"
   date: "September 14-18"
-  place: Rome, Italy
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-A]
 
 - name: ASIA CCS
@@ -228,100 +218,98 @@
   
 - name: CSF
   description: IEEE Computer Security Foundations Symposium
-  year: 2026
-  link: https://www.ieee-security.org/TC/CSF2026/
+  year: 2027
+  link: https://www.ieee-security.org/TC/CSF2027/
   dblp: https://dblp.org/db/conf/csfw/index.html
   deadline:
-    - "2025-07-24 23:59"
-    - "2025-10-09 23:59"
-    - "2026-01-29 23:59"
+    - "2027-01-29 23:59"
   date: July 26-29
-  place: Lisbon, Portugal
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-A]
 
 - name: CANS
   description: International Conference on Cryptology and Network Security
-  year: 2026
-  link: https://uow-ic2.github.io/cans2026/index.html
+  year: 2027
+  link: https://uow-ic2.github.io/cans2027/index.html
   dblp: https://dblp.org/db/conf/cans/index.html
-  deadline: ["2026-06-10 23:59"]
+  deadline: ["2027-06-10 23:59"]
   date: November 23-25
-  place: Wollongong, Australia
+  place: TBA
   tags: [SEC, CRYPTO, CONF, CORE-B]
 
 - name: WiSec
   description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
-  year: 2026
-  link: https://wisec26.events.cispa.de/
+  year: 2027
+  link: https://wisec27.events.cispa.de/
   dblp: https://dblp.org/db/conf/wisec/index.html
   deadline:
-    - "2025-11-18 23:59"
-    - "2026-03-03 23:59"
+    - "2026-11-18 23:59"
+    - "2027-03-03 23:59"
   date: June 30 - July 3
-  place: Saarbrücken, Germany
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-B]
 
 - name: IFIP SEC
   description: IFIP International Information Security and Privacy Conference
-  year: 2026
+  year: 2027
   link: https://ifipsec.org/cfp.html
   dblp: https://dblp.org/db/conf/sec/index.html
-  deadline: ["2025-12-19 23:59"]
+  deadline: ["2026-12-19 23:59"]
   date: June 9 - 11
-  place: Perth, Australia
+  place: TBA
   tags: [SEC, CONF, CORE-B]
 
 - name: ISC
   description: Information Security Conference
-  year: 2026
-  link: https://isc2026.github.io/
+  year: 2027
+  link: https://isc2027.github.io/
   dblp: https://dblp.org/db/conf/isw/index.html
-  deadline: ["2026-06-22 23:59"]
+  deadline: ["2027-06-22 23:59"]
   date: October 28-30
-  place: Rennes, France
+  place: TBA
   tags: [CRYPTO, SEC, PRIV, CONF, CORE-C]
 
 - name: TrustCom
   description: International Conference on Trust, Security and Privacy in Computing and Communications
-  year: 2025
-  link: https://ieee-aiplus-2025.org/trustcom.html
+  year: 2027
+  link: https://ieee-aiplus-2027.org/trustcom.html
   dblp: https://dblp.org/db/conf/trustcom/index.html
-  deadline: ["2025-08-01 23:59"]
+  deadline: ["2027-08-01 23:59"]
   date: November 14-17
-  place: Guiyang, China
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-B]
 
 - name: FPS
   description: International Symposium on Foundations & Practice of Security
-  year: 2025
-  link: https://hub.imt-atlantique.fr/fps2025/
+  year: 2027
+  link: https://hub.imt-atlantique.fr/fps2027/
   dblp: https://dblp.org/db/conf/fps/index.html
-  deadline: ["2025-09-15 23:59"]
+  deadline: ["2027-09-15 23:59"]
   date: November 25-27
-  place: Brest, France
+  place: TBA
   tags: [SEC, PRIV, CRYPTO, CONF, CORE-B]
 
 - name: SecureComm
-  year: 2026
+  year: 2027
   date: July 21-24
   description: International Conference on Security and Privacy in Communication Networks
-  link: https://securecomm.eai-conferences.org/2026/
+  link: https://securecomm.eai-conferences.org/2027/
   dblp: https://dblp.org/db/conf/securecomm/index.html
-  deadline: ["2026-01-15 23:59"]
-  place: Lancaster, United Kingdom
+  deadline: ["2027-01-15 23:59"]
+  place: TBA
   tags: [SEC, CONF, CORE-C]
 
 - name: SSS
   description: International Symposium on Stabilization, Safety, and Security of Distributed Systems
-  year: 2026
-  link: https://sss2026.conf.lip6.fr/
+  year: 2027
+  link: https://sss2027.conf.lip6.fr/
   dblp: https://dblp.org/db/conf/sss/index.html
   deadline:
-    - "2026-03-31 23:59"
-    - "2026-05-15 23:59"
-    - "2026-07-15 23:59"
+    - "2027-03-31 23:59"
+    - "2027-05-15 23:59"
+    - "2027-07-15 23:59"
   date: October 9-11
-  place: Gothenburg, Sweden
+  place: TBA
   tags: [SEC, CONF, CORE-C]
 
 # Privacy
@@ -343,183 +331,183 @@
 
 - name: SOUPS
   description: Symposium on Usable Privacy and Security
-  year: 2026
+  year: 2027
   link: https://soups.page/
   dblp: https://dblp.org/db/conf/soups/index.html
-  deadline: ["2026-02-19 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
+  deadline: ["2027-02-19 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
   date: August 23-26
-  place: Hannover, Germany
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-A]
 
 - name: EuroUSEC
   description: European Symposium on Usable Security
-  year: 2025
-  link: https://eurousec2025.cis.strath.ac.uk/
+  year: 2027
+  link: https://eurousec2027.cis.strath.ac.uk/
   dblp: https://dblp.org/db/conf/eurousec/index.html
-  deadline: ["2025-05-09 23:59"]
-  comment: Paper registration due May 5th AoE
+  deadline: ["2027-05-09 23:59"]
+  comment: Paper registration due May 5th AoE. Deadlines estimated from the 2025 edition; official 2027 dates TBA.
   date: September 10-September 11
-  place: Manchester, UK
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
   
 - name: PrivaCI
   description: The Annual Symposium on Applications of Contextual Integrity
-  year: 2026
-  link: https://privaci.info/symposium/2026/cfp.html
-  deadline: ["2026-02-13 23:59"]
+  year: 2027
+  link: https://privaci.info/symposium/2027/cfp.html
+  deadline: ["2027-02-13 23:59"]
   date: June 24-25
-  place: Urbana-Champaign, USA
+  place: TBA
   tags: [PRIV, CONF, OTHERS]
 
 - name: PST
   description: Annual International Conference on Privacy, Security, and Trust
-  year: 2026
-  link: https://pstnet.ca/pst2026
+  year: 2027
+  link: https://pstnet.ca/pst2027
   dblp: https://dblp.org/db/conf/pst/index.html
-  deadline: ["2026-04-28 23:59"]
-  comment: Co-located with SAC 2026.
+  deadline: ["2027-04-28 23:59"]
+  comment: Deadlines estimated from the 2026 edition; official 2027 dates TBA.
   date: August 26-28
-  place: Ottawa, Canada
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-C]
 
 - name: APF
   description: Annual Privacy Forum
-  year: 2026
+  year: 2027
   link: https://privacyforum.eu/callforpapers.html
   dblp: https://dblp.org/db/conf/apf/index.html
-  deadline: ["2026-04-15 23:59"]
+  deadline: ["2027-04-15 23:59"]
   date: September 9-10
-  place: Salzburg, Austria
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 # Crypto
 
 - name: Crypto
   description: International Cryptology Conference
-  year: 2026
-  link: https://crypto.iacr.org/2026/
+  year: 2027
+  link: https://crypto.iacr.org/2027/
   dblp: https://dblp.org/db/conf/crypto/index.html
-  deadline: ["2026-02-12 23:59"]
+  deadline: ["2027-02-12 23:59"]
   timezone: Etc/GMT+8
   date: August 17-20
-  place: Santa Barbara, CA, USA
+  place: TBA
   tags: [CRYPTO, CONF, ASTAR]
 
 - name: Eurocrypt
   description: European Cryptology Conference
-  year: 2026
-  link: https://eurocrypt.iacr.org/2026/
+  year: 2028
+  link: https://eurocrypt.iacr.org/2028/
   dblp: https://dblp.org/db/conf/eurocrypt/index.html
-  deadline: ["2025-10-02 23:59"]
+  deadline: ["2027-10-02 23:59"]
   date: May 10-14
-  place: Rome, Italy
+  place: TBA
   tags: [CRYPTO, CONF, ASTAR]
 
 - name: SAC
   description: Selected Areas in Cryptography
-  year: 2026
-  link: https://sacworkshop.org/SAC26/
+  year: 2027
+  link: https://sacworkshop.org/SAC27/
   dblp: https://dblp.org/db/conf/sacrypt/index.html
-  deadline: ["2026-02-02 23:59", "2026-05-11 23:59"]
+  deadline: ["2027-02-02 23:59", "2027-05-11 23:59"]
   date: August 26-28
-  place: Ottawa, ON, Canada
+  place: TBA
   tags: [CRYPTO, CONF, CORE-B]
 
 - name: Asiacrypt
   description: International Conference on the Theory and Application of Cryptology and Information Security
-  year: 2026
-  link: https://asiacrypt.iacr.org/2026/
+  year: 2027
+  link: https://asiacrypt.iacr.org/2027/
   dblp: https://dblp.org/db/conf/asiacrypt/index.html
-  deadline: ["2026-05-22 12:00"]
+  deadline: ["2027-05-22 12:00"]
   timezone: Etc/GMT
   date: December 7-11
-  place: Hong Kong, China
+  place: TBA
   tags: [CRYPTO, CONF, CORE-A]
 
 - name: FC
   description: Financial Cryptography and Data Security
-  year: 2026
-  link: https://fc26.ifca.ai
+  year: 2028
+  link: https://fc28.ifca.ai
   dblp: https://dblp.org/db/conf/fc/index.html
-  deadline: ["2025-09-20 23:59"]
+  deadline: ["2027-09-20 23:59"]
   date: March 2–6
-  place: St. Kitts
+  place: TBA
   tags: [SEC, CRYPTO, CONF, CORE-A]
 
 - name: AFT
   description: ACM Conference on Advances in Financial Technologies
-  year: 2026
-  link: https://aft.ifca.ai/aft26/CFP.html
+  year: 2027
+  link: https://aft.ifca.ai/aft27/CFP.html
   dblp: https://dblp.org/db/conf/aft/index.html
-  deadline: ["2026-05-27 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
+  deadline: ["2027-05-27 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
   date: "October 6–9"
-  place: London, UK
+  place: TBA
   tags: [SEC, PRIV, CRYPTO, CONF, CORE-B]
 
 - name: TCC
   description: Theory of Cryptography Conference
-  year: 2026
-  link: https://tcc.iacr.org/2026/
+  year: 2027
+  link: https://tcc.iacr.org/2027/
   dblp: https://dblp.org/db/conf/tcc/index.html
-  deadline: ["2026-05-19 23:59"]
+  deadline: ["2027-05-19 23:59"]
   date: "November 10-13"
-  place: New York City, USA
+  place: TBA
   tags: [CRYPTO, CONF, CORE-B]
 
 - name: PKC
   description: International Conference on Practice and Theory of Public Key Cryptography
-  year: 2027
-  link: https://pkc.iacr.org/2027/
+  year: 2028
+  link: https://pkc.iacr.org/2028/
   dblp: https://dblp.org/db/conf/pkc/index.html
-  deadline: ["2026-08-03 23:59"]
+  deadline: ["2027-08-03 23:59"]
   date: March 1-4
-  place: Taipei, Taiwan
+  place: TBA
   tags: [CRYPTO, CONF, CORE-B]
 
 - name: CT-RSA
   description: RSA Conference Cryptographers’ Track
-  year: 2026
+  year: 2028
   date: March 23-26
-  link: https://conference.wsu.edu/ct-rsa-2026/
+  link: https://conference.wsu.edu/ct-rsa-2028/
   dblp: https://dblp.org/db/conf/ctrsa/index.html
-  deadline: ["2025-10-24 23:59"]
-  place: San Francisco, CA, USA
+  deadline: ["2027-10-24 23:59"]
+  place: TBA
   tags: [CRYPTO, CONF, CORE-B]
 
 - name: SECRYPT
   description: International Conference on Security and Cryptography
-  year: 2026
+  year: 2027
   link: https://secrypt.scitevents.org
   dblp: https://dblp.org/db/conf/secrypt/index.html
   deadline:
-     - "2026-03-03 23:59"
-     - "2026-04-16 23:59"
+     - "2027-03-03 23:59"
+     - "2027-04-16 23:59"
   date: July 16-18
-  place: Porto, Portugal
+  place: TBA
   tags: [SEC, CRYPTO, CONF, CORE-C]
 
 - name: AfricaCrypt
   description: International Conference on Cryptography Africa
-  year: 2026
-  link: https://www.africacrypt2026.tn/
+  year: 2027
+  link: https://www.africacrypt2027.tn/
   dblp: https://dblp.org/db/conf/africacrypt/index.html
-  deadline: ["2026-03-01 23:59"]
+  deadline: ["2027-03-01 23:59"]
   date: July 08-10
-  place: Hammamet, Tunisia
+  place: TBA
   tags: [CRYPTO, CONF, OTHERS]
 
 # Don't delete Latincrypt since it is often once every few years
 - name: LATINCRYPT
-  year: 2025
+  year: 2027
   description: International Conference on Cryptology and Information Security in Latin America
   link: https://ciencias.medellin.unal.edu.co/eventos/latincrypt/
   dblp: https://dblp.org/db/conf/latincrypt/index.html
-  deadline: ["2025-05-16 23:59"]
-  comment: Extended submission deadline May 16th 23:59 AoE
-  date:  October 1-3
-  place: Medellin, Colombia
+  deadline: ["2027-05-16 23:59"]
+  comment: Extended submission deadline May 16th 23:59 AoE. Deadlines estimated from the 2025 edition; official 2027 dates TBA.
+  date: October 1-3
+  place: TBA
   tags: [CRYPTO, CONF, OTHERS]
 
 - name: ToSC
@@ -554,54 +542,54 @@
 
 - name: C&C
   description: IMA International Conference on Cryptography and Coding
-  year: 2026
+  year: 2027
   link: https://ima.org.uk/28271/20th-ima-international-conference-on-cryptography-and-coding/
   dblp: https://dblp.org/db/conf/ima/index.html
-  deadline: ["2026-07-31 23:59"]
+  deadline: ["2027-07-31 23:59"]
   date: December 15-16
-  place: Cirencester, UK
+  place: TBA
   tags: [CRYPTO, CONF, CORE-C]
 
 - name: PQQS
   description: ACM Conference on Post-Quantum and Quantum-based Security
-  year: 2026
+  year: 2027
   link: https://www.pqqs.org
-  deadline: ["2026-07-26 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
+  deadline: ["2027-07-26 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
   date: November 02-04
-  place: San Jose, USA
+  place: TBA
   tags: [CRYPTO, SEC, CONF, OTHERS]
 
 # Networks and systems, applications
 
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
-  year: 2026
-  link: https://raid2026.org
+  year: 2027
+  link: https://raid2027.org
   dblp: https://dblp.org/db/conf/raid/index.html
-  deadline: ["2026-04-16 23:59"]
+  deadline: ["2027-04-16 23:59"]
   date: October 11-14
-  place: Lancaster, UK
+  place: TBA
   tags: [SEC, CONF, CORE-A]
 
 - name: SAC
   description: ACM/SIGAPP Symposium On Applied Computing
-  year: 2026
-  link: https://www.sigapp.org/sac/sac2026/
+  year: 2028
+  link: https://www.sigapp.org/sac/sac2028/
   dblp: https://dblp.org/db/conf/sac/index.html
-  deadline: ["2025-10-17 23:59"]
+  deadline: ["2027-10-17 23:59"]
   date: March 23-27
-  place: Thessaloniki, Greece
+  place: TBA
   tags: [SEC, CONF, OTHERS]
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2026
-  link: https://www.acsac.org/2026/submissions/papers/
+  year: 2027
+  link: https://www.acsac.org/2027/submissions/papers/
   dblp: https://dblp.org/db/conf/acsac/index.html
-  deadline: ["2026-05-26 23:59"]
+  deadline: ["2027-05-26 23:59"]
   date: Dec 7-11
-  place: Los Angeles, CA, USA
+  place: TBA
   tags: [SEC, CONF, CORE-A]
 
 - name: ACNS
@@ -618,231 +606,217 @@
 
 - name: DIMVA
   description: The Conference on Detection of Intrusions and Malware & Vulnerability Assessment
-  year: 2026
-  link: https://www.dimva.org/dimva2026/
+  year: 2027
+  link: https://www.dimva.org/dimva2027/
   dblp: https://dblp.org/db/conf/dimva/index.html
   deadline:
-    - "2025-12-03 23:59"
-    - "2026-02-11 23:59"
+    - "2026-12-03 23:59"
+    - "2027-02-11 23:59"
   date: July 01-03
-  place: Chania, Greece
+  place: TBA
   tags: [SEC, CONF, CORE-B]
 
 - name: SACMAT
   description: ACM Symposium on Access Control Models and Technologies
-  year: 2026
-  link: https://www.sacmat.org/2026/
+  year: 2027
+  link: https://www.sacmat.org/2027/
   dblp: https://dblp.org/db/conf/sacmat/index.html
-  deadline: 
-    - "2025-10-27 23:59"
-    - "2026-03-06 23:59"
+  deadline:
+    - "2027-03-06 23:59"
   date: July 8-10
-  place: Waterloo, Canada
+  place: TBA
   tags: [CRYPTO, SEC, CONF, PRIV, CORE-C]
 
 - name: ARES
   description: International Conference on Availability, Reliability and Security
-  year: 2026
+  year: 2027
   link: https://www.ares-conference.eu/
   dblp: https://dblp.org/db/conf/IEEEares/index.html
-  deadline: ["2026-03-09 23:59"]
-  comment: Abstract registration deadline March 2, 2026.
+  deadline: ["2027-03-09 23:59"]
+  comment: Deadlines estimated from the 2026 edition; official 2027 dates TBA.
   date: August 24 - 27
-  place: Linköping, Sweden
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-B]
 
 - name: CODASPY
   description: ACM Conference on Data and Application Security and Privacy
-  year: 2026
-  link: http://www.codaspy.org/2026/
+  year: 2027
+  link: http://www.codaspy.org/2027/
   dblp: https://dblp.org/db/conf/codaspy/index.html
-  deadline: ["2026-01-02 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
+  deadline: ["2027-01-02 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
   date: June 23-25
-  place: Frankfurt am Main, Germany
+  place: TBA
   tags: [CRYPTO, SEC, CONF, PRIV, OTHERS]
 
 - name: DBSec
   description: Conference on Data and Applications Security and Privacy
-  year: 2026
-  link: https://dbsec2026.gmu.edu/
+  year: 2028
+  link: https://dbsec2028.gmu.edu/
   dblp: https://dblp.org/db/conf/dbsec/index.html
-  deadline: ["2025-03-27 23:59"]
+  deadline: ["2027-03-27 23:59"]
   date: July 28-30
-  place: Arlington, Virginia, USA
+  place: TBA
   tags: [CRYPTO, SEC, CONF, PRIV, CORE-B]
-
-- name: The Web Conference
-  description: International Conference on the World Wide Web
-  year: 2026
-  link: https://www2026.thewebconf.org
-  dblp: https://dblp.org/db/conf/www/index.html
-  deadline: ["2025-10-07 23:59"]
-  comment: Abstract deadline September 30 AoE.
-  date: April 13-17
-  place: Dubai, United Arab Emirates
-  tags: [SEC, CONF, PRIV, ASTAR]
 
 - name: ATC
   description: ACM SIGOPS Annual Technical Conference
-  year: 2026
-  link: https://sigops.org/s/conferences/atc/2026/index.html
+  year: 2027
+  link: https://sigops.org/s/conferences/atc/2027/index.html
   dblp: https://dblp.org/db/conf/usenix/index.html
-  deadline: ["2026-06-10 23:59"]
+  deadline: ["2027-06-10 23:59"]
   date: November 15-18
-  place: Shatin, Hong Kong
+  place: TBA
   tags: [SEC, CONF, PRIV, CORE-A]
 
 - name: eCrime
-  year: 2026
+  year: 2027
   date: November 2-6
   description: The Symposium on Electronic Crime Research
   dblp: https://dblp.org/db/conf/ecrime/index.html
-  link: https://apwg.org/events/ecrime2026
-  deadline: ["2026-05-30 23:59"]
-  place: Lisbon, Portugal
+  link: https://apwg.org/events/ecrime2027
+  deadline: ["2027-05-30 23:59"]
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: PAM
-  year: 2026
+  year: 2028
   date: "March 23-25"
   description: Passive and Active Measurement Conference
   dblp: https://dblp.org/db/conf/pam/index.html
-  link: https://pam2026.at/
-  deadline: ["2025-10-08 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Virtual
+  link: https://pam2028.at/
+  deadline: ["2027-10-08 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2026 edition; official 2028 dates TBA.
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-B]
 
 - name: VehicleSec
   description: USENIX Symposium on Vehicle Security and Privacy
-  year: 2026
-  link: https://www.usenix.org/conference/vehiclesec26
+  year: 2027
+  link: https://www.usenix.org/conference/vehiclesec27
   dblp: https://dblp.org/db/conf/vehiclesec/index.html
-  comment: Co-located with USENIX Security 2026
-  deadline: ["2026-02-24 23:59"]
+  comment: Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  deadline: ["2027-02-24 23:59"]
   date: August 10-11
-  place: Baltimore, USA
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: NCA
   description: International Symposium on Network Computing and Applications
-  year: 2026
-  link: https://www.nca-ieee.org/2026/index.html
+  year: 2027
+  link: https://www.nca-ieee.org/2027/index.html
   dblp: https://dblp.org/db/conf/nca/index.html
-  deadline: ["2026-06-19 23:59"]
+  deadline: ["2027-06-19 23:59"]
   date: November 10-13
-  place: Ortigia-Syracuse (Sicily), Italy
+  place: TBA
   tags: [SEC, CONF, CORE-B]
 
 - name: CRISIS
-  year: 2025
+  year: 2027
   description: International Conference on Risks and Security of Internet and Systems
-  link: https://crisis2025.uqo.ca
+  link: https://crisis2027.uqo.ca
   dblp: https://dblp.org/db/conf/crisis/index.html
-  deadline: ["2025-07-15 23:59"]
+  deadline: ["2027-07-15 23:59"]
   date: October 22-24
-  place: Gatineau, Canada
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-C]
 
 - name: ProvSec
-  year: 2026
+  year: 2027
   description: International Conference on Provable and Practical Security
-  link: https://provsec-2026.github.io/Provsec2026-base/
+  link: https://provsec-2027.github.io/Provsec2027-base/
   dblp: https://dblp.org/db/conf/provsec/index.html
-  deadline: ["2026-05-31 23:59"]
+  deadline: ["2027-05-31 23:59"]
   date: September 24-26
-  place: Queenstown, New Zealand
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-C]
 
 - name: IMC
-  year: 2026
+  year: 2027
   description: ACM Internet Measurement Conference
-  link: https://conferences.sigcomm.org/imc/2026/
+  link: https://conferences.sigcomm.org/imc/2027/
   dblp: https://dblp.org/db/conf/imc/index.html
   deadline:
-    - "2025-11-20 23:59"
-    - "2026-04-29 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
+    - "2026-11-20 23:59"
+    - "2027-04-29 23:59"
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
   date: November 3-6
-  place: Karlsruhe, Germany
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-A]
 
 - name: HOST
   description: IEEE International Symposium on Hardware Oriented Security and Trust
-  year: 2026
+  year: 2027
   link: http://www.hostsymposium.org/
   dblp: https://dblp.org/db/conf/host/index.html
   deadline:
-    - "2025-08-26 23:59"
-    - "2025-12-08 23:59"
-  comment: Abstract registration required (1 week before deadline AoE).
+    - "2026-12-08 23:59"
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
   date: May 4-7
-  place: Washington DC, USA
+  place: TBA
   tags: [SEC, CONF, OTHERS]
 
 - name: AsianHOST
   description: Asian Hardware Oriented Security and Trust Symposium
-  year: 2026
-  link: https://www.asianhost.org/2026/
+  year: 2027
+  link: https://www.asianhost.org/2027/
   dblp: https://dblp.org/db/conf/asianhost/index.html
-  deadline: ["2026-07-14 23:59"]
+  deadline: ["2027-07-14 23:59"]
   date: December 11-13
   timezone: Asia/Shanghai
-  place: Kharagpur, India
+  place: TBA
   tags: [SEC, CONF, OTHERS]
 
 - name: Inscrypt
-  year: 2026
+  year: 2028
   description: International Conference on Information Security and Cryptology
-  link: https://inscrypt2026.comp.polyu.edu.hk/
+  link: https://inscrypt2028.comp.polyu.edu.hk/
   dblp: https://dblp.org/db/conf/cisc/index.html
   deadline:
-    - "2025-04-15 23:59"
-    - "2025-06-15 23:59"
+    - "2027-04-15 23:59"
+    - "2027-06-15 23:59"
   date: November 7-9
-  place: Hong Kong SAR, China
+  place: TBA
   tags: [SEC, PRIV, CRYPTO, CONF, OTHERS]
 
 - name: CASCADE
   description: Constructive Approaches for Security Analysis and Design of Embedded Systems
-  year: 2026
+  year: 2027
   link: https://cascade-conference.org/index.html
   deadline:
-    - "2025-06-27 23:59"
-    - "2025-12-05 23:59"
+    - "2026-12-05 23:59"
   date: March 30 - April 1
-  place: Regensburg, Germany
+  place: TBA
   tags: [CRYPTO, CONF, OTHERS]
 
 # Software Engineering (Research Track only)
 - name: ICSE
   description: IEEE/ACM International Conference on Software Engineering
-  year: 2027
-  link: https://conf.researchr.org/home/icse-2027
-  deadline: ["2026-06-30 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
+  year: 2028
+  link: https://conf.researchr.org/home/icse-2028
+  deadline: ["2027-06-30 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2027 edition; official 2028 dates TBA.
   date: April 25 - May 1
-  place: Dublin, Ireland
+  place: TBA
   tags: [SEC, CONF, ASTAR]
 
 # Change name to FSE, but FSE is already used for the IACR Conference on Fast Software Encryption (FSE)
 - name: ESEC/FSE
   description: ACM International Conference on the Foundations of Software Engineering
-  year: 2027
-  link: https://conf.researchr.org/home/fse-2027
-  deadline: ["2026-10-09 23:59"]
+  year: 2028
+  link: https://conf.researchr.org/home/fse-2028
+  deadline: ["2027-10-09 23:59"]
   date: July 12 - 16
-  place: Shenzhen, China
+  place: TBA
   tags: [SEC, CONF, ASTAR]
 
 - name: ISSTA
   description: ACM SIGSOFT International Symposium on Software Testing and Analysis
-  year: 2026
-  link: https://conf.researchr.org/home/issta-2026
-  deadline: ["2026-01-29 23:59"]
+  year: 2027
+  link: https://conf.researchr.org/home/issta-2027
+  deadline: ["2027-01-29 23:59"]
   date: October 3 - 9
-  place: Oakland, CA, USA
+  place: TBA
   tags: [SEC, CONF, CORE-A]
 
 - name: EASE
@@ -858,159 +832,159 @@
 
 # Others, less frequently updated
 - name: Security for Space Systems (3S)
-  year: 2025
+  year: 2027
   date: "November 4 - 6"
   description: ESA Security for Space Systems Conference
   deadline:
-    - "2025-04-16 23:59"
-    - "2025-06-30 23:59"
-  link: https://security4space.esa.int/2025/cfp/
-  place: ESTEC, Noordwijk, Netherlands
+    - "2027-04-16 23:59"
+    - "2027-06-30 23:59"
+  link: https://security4space.esa.int/2027/cfp/
+  place: TBA
   tags: [SEC, CONF, OTHERS]
   
 - name: SSR
-  year: 2026
+  year: 2027
   date: "December 13-15"
   description: Security Standardisation Research Conference
-  deadline: ["2026-09-15 23:59"]
-  link: https://ssresearch26.umbc.edu/
-  place: Baltimore, MD, USA
+  deadline: ["2027-09-15 23:59"]
+  link: https://ssresearch27.umbc.edu/
+  place: TBA
   tags: [SEC, CONF, CRYPTO, OTHERS]
 
 # Don't delete just yet, has popped up on off years before https://ieeexplore.ieee.org/xpl/conhome/1843824/all-proceedings
 - name: SEED
   description: IEEE International Symposium on Secure and Private Execution Environment Design
-  year: 2024
-  link: https://seed-symposium.org/2024/
-  deadline: ["2023-11-05 23:59"]
+  year: 2028
+  link: https://seed-symposium.org/2028/
+  deadline: ["2027-11-05 23:59"]
   date: January 29-30
-  place: Orlando, FL
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: NSS-SocialSec
   description: International Conference on Network and System Security and International Symposium on Security and Privacy in Social Networks and Big Data
-  year: 2024
-  link: http://nsclab.org/nss-socialsec2024/index.html
-  deadline: ["2024-07-01 23:59"]
+  year: 2027
+  link: http://nsclab.org/nss-socialsec2027/index.html
+  deadline: ["2027-07-01 23:59"]
   date: Nov 20-22
-  place: Abu Dhabi, UAE
+  place: TBA
   tags: [SEC, PRIV, CRYPTO, CONF, OTHERS]
 
 - name: IMF
-  year: 2026
+  year: 2028
   date: "September 15–16"
   description: International Conference on IT Security Incident Management and IT Forensics
   link: https://www.imf-conference.org/cfp.html
-  deadline: ["2025-04-20 23:59"]
+  deadline: ["2027-04-20 23:59"]
   timezone: Etc/UTC
-  place: Bonn, Germany
+  place: TBA
   tags: [SEC, CONF, OTHERS]
 
 - name: SciSec
   description: International Conference on Science of Cyber Security
-  year: 2026
+  year: 2027
   link: https://scisec.org/
-  deadline: ["2026-03-31 23:59"]
+  deadline: ["2027-03-31 23:59"]
   date: May 29-31
-  place: Beijing, China
+  place: TBA
   tags: [SEC, CONF, OTHERS]
 
 - name: DCS-CI
-  description: International Conference on Design of Cyber-Secure Critical Infrastructure 
-  year: 2026
+  description: International Conference on Design of Cyber-Secure Critical Infrastructure
+  year: 2027
   link: https://dcs-ci.github.io
-  deadline: ["2026-05-04 23:59"]
-  date: Sep 2-3, 2026
-  place: Buford, Georgia, USA
+  deadline: ["2027-05-04 23:59"]
+  date: Sep 2-3, 2027
+  place: TBA
   tags: [SEC, CONF, OTHERS]
 
 - name: SCP
   description: Conference on Sociotechnical Cybersecurity and Privacy
-  year: 2026
+  year: 2027
   link: https://scpconf.eu/
-  deadline: ["2026-05-25 23:59"]
-  comment: Abstract registration required (May 20 AoE).
+  deadline: ["2027-05-25 23:59"]
+  comment: Abstract registration required (May 20 AoE). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
   date: September 2-3
-  place: Belval, Luxembourg
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: ACISP
   description: Australasian Conference on Information Security and Privacy
-  year: 2026
+  year: 2027
   link: https://acisp.org/
   deadline:
-    - "2025-11-27 23:59"
-    - "2026-02-26 23:59"
+    - "2026-11-27 23:59"
+    - "2027-02-26 23:59"
   date: July 6-9
-  place: Perth, Australia
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: ITASEC
   description: Italian Conference on Cybersecurity
-  year: 2025
+  year: 2027
   link: https://itasec.it/
-  deadline: ["2024-12-09 23:59"]
+  deadline: ["2026-12-09 23:59"]
   date: February 3-8
-  place: Bologna, IT
+  place: TBA
   tags: [SEC, CONF, OTHERS]
 
 - name: ICSC
   description: Intelligent Cybersecurity Conference
-  year: 2026
-  link: https://icsc-conference.org/2026/
-  deadline: ["2026-04-15 23:59"]
+  year: 2027
+  link: https://icsc-conference.org/2027/
+  deadline: ["2027-04-15 23:59"]
   date: September 15-18
-  place: Abu Dhabi, UAE
+  place: TBA
   tags: [SEC, CONF, OTHERS]
 
 - name: ICICS
-  year: 2026
+  year: 2027
   date: October 27-30
   description: International Conference on Information and Communications Security
-  link: https://sulab-sever.u-aizu.ac.jp/icics2026/index.html
+  link: https://sulab-sever.u-aizu.ac.jp/icics2027/index.html
   deadline:
-    - "2026-02-28 23:59"
-    - "2026-05-23 23:59"
+    - "2027-02-28 23:59"
+    - "2027-05-23 23:59"
   timezone: Asia/Tokyo
-  place: Fukui, Japan
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-C]
 
 - name: SaTML
-  year: 2026
+  year: 2028
   date: March 23-25
   description: IEEE Conference on Secure and Trustworthy Machine Learning
   link: https://satml.org/
-  deadline: ["2025-09-24 23:59"]
-  place: Munich, Germany
+  deadline: ["2027-09-24 23:59"]
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: NordSec
-  year: 2026
+  year: 2027
   description: Nordic Conference on Secure IT Systems
-  link: http://nordsec2026.dk/
-  deadline: ["2026-08-17 23:59"]
+  link: http://nordsec2027.dk/
+  deadline: ["2027-08-17 23:59"]
   date: "November 11-12"
-  place: Aarhus, Denmark
+  place: TBA
   tags: [SEC, PRIV, CONF, CORE-C]
 
 - name: SecDev
-  year: 2026
+  year: 2027
   description: Secure Development Conference
-  link: https://conf.researchr.org/home/secdev-2026
-  deadline: ["2026-02-05 23:59"]
+  link: https://conf.researchr.org/home/secdev-2027
+  deadline: ["2027-02-05 23:59"]
   date: "July 5-6"
-  place: Montreal, Canada
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: RISC
-  year: 2026
+  year: 2027
   description: IEEE International Conference on Resilience and Integrated Security for Space and Critical Systems
-  link: https://www.sis.pitt.edu/lersais/conference/risc/2026/call-for-papers/
+  link: https://www.sis.pitt.edu/lersais/conference/risc/2027/call-for-papers/
   deadline:
-    - "2026-06-01 23:59"
-    - "2026-08-15 23:59"
+    - "2027-06-01 23:59"
+    - "2027-08-15 23:59"
   date: "November 4-6"
-  place: San Jose, CA, USA
+  place: TBA
   tags: [SEC, CONF, OTHERS]
 
 # Workshops
@@ -1201,11 +1175,11 @@
 
 - name: CNS
   description: IEEE Conference on Communications and Network Security
-  year: 2026
-  link: https://cns2026.ieee-cns.org/
-  deadline: ["2026-05-18 23:59"]
+  year: 2027
+  link: https://cns2027.ieee-cns.org/
+  deadline: ["2027-05-18 23:59"]
   date: September 14 - 17
-  place: Newark, DE, USA
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: HASP
@@ -1285,13 +1259,13 @@
 
 - name: USEC
   description: Symposium on Usable Security and Privacy
-  year: 2026
-  link: https://www.ndss-symposium.org/ndss2026/submissions/cfp-usec/
-  comment: Co-located with NDSS Symposium
+  year: 2027
+  link: https://www.ndss-symposium.org/ndss2027/submissions/cfp-usec/
+  comment: Co-located with NDSS Symposium. Deadlines estimated from the 2026 edition; official 2027 dates TBA.
   deadline:
-    - "2025-12-05 23:59"
+    - "2026-12-05 23:59"
   date: February 27
-  place: San Diego, California, USA
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: PRISM
@@ -1307,14 +1281,14 @@
 
 - name: WOOT
   description: USENIX WOOT Conference on Offensive Technologies
-  year: 2026
-  link: https://www.usenix.org/conference/woot26/call-for-papers
-  comment: Co-located with USENIX Security; up-and-coming track deadline is Mar 3 (cycle-2)
-  deadline: 
-    - "2025-12-12 23:59"
-    - "2026-03-03 23:59"
+  year: 2027
+  link: https://www.usenix.org/conference/woot27/call-for-papers
+  comment: Co-located with USENIX Security; up-and-coming track deadline is Mar 3 (cycle-2). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  deadline:
+    - "2026-12-12 23:59"
+    - "2027-03-03 23:59"
   date: August 10–11
-  place: Baltimore, MD, USA
+  place: TBA
   tags: [SEC, PRIV, CRYPTO, CONF, OTHERS]
 
 - name: SafeThings
@@ -1421,12 +1395,12 @@
 
 - name: ICISS
   description: International Conference on Information Systems Security
-  year: 2026
+  year: 2027
   link: https://iciss.in/cfp/
-  deadline: 
-    - "2026-07-10 23:59"
+  deadline:
+    - "2027-07-10 23:59"
   date: December 16-20
-  place: CMI Chennai, India
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: CPSS
@@ -1510,13 +1484,13 @@
 
 - name: SmartSP
   description: EAI International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles
-  year: 2026
+  year: 2027
   link: https://smartsp.eai-conferences.org/
   deadline:
-    - "2026-05-08 23:59"
-    - "2026-07-16 23:59"
+    - "2027-05-08 23:59"
+    - "2027-07-16 23:59"
   date: November 5–6
-  place: Detroit, MI, USA
+  place: TBA
   tags: [SEC, PRIV, CONF, OTHERS]
 
 - name: CCSW
@@ -1531,12 +1505,12 @@
 
 - name: PQCrypto
   description: International Conference on Post-Quantum Cryptography
-  year: 2026
-  link: https://pqcrypto2026.irisa.fr/
-  deadline: ["2025-11-07 23:59"]
-  comment: Initial submission with abstract required Oct 31st.
+  year: 2028
+  link: https://pqcrypto2028.irisa.fr/
+  deadline: ["2027-11-07 23:59"]
+  comment: Initial submission with abstract required Oct 31st. Deadlines estimated from the 2026 edition; official 2028 dates TBA.
   date: April 14-16
-  place: Saint-Malo, France
+  place: TBA
   tags: [CRYPTO, CONF, CORE-C]
 
 - name: WAITI
@@ -1599,12 +1573,12 @@
   tags: [SEC, PRIV, SHOP, OTHERS]
 
 - name: Crypto Valley Conference
-  description: Crypto Valley Conference on Blockchain Technology 2025
-  year: 2025
+  description: Crypto Valley Conference on Blockchain Technology 2027
+  year: 2027
   link: https://cryptovalleyconference.com/call-for-papers
-  deadline: ["2025-03-13 23:59"]
+  deadline: ["2027-03-13 23:59"]
   date: June 5-6
-  place: Rotkreuz, Switzerland
+  place: TBA
   tags: [SEC, PRIV, CRYPTO, CONF, OTHERS]
 
 - name: ACM SaT-CPS
@@ -1648,42 +1622,32 @@
   tags: [SEC, PRIV, CRYPTO, SHOP, OTHERS]
 
 - name: ICSOC
-  year: 2026
+  year: 2027
   date: December 1 - 4
   description: 24th International Conference on Service-Oriented Computing
-  link: https://icsoc2026.it.p.lodz.pl/index.html
-  deadline: ["2026-07-12 23:59"]
-  place: Lodz, Poland
+  link: https://icsoc2027.it.p.lodz.pl/index.html
+  deadline: ["2027-07-12 23:59"]
+  place: TBA
   tags: [CONF, DS, SOFT, CORE-A]
 
 - name: PerCom
-  year: 2026
+  year: 2028
   date: March 16 - 20
   description: IEEE International Conference on Pervasive Computing and Communications
   link: https://percom.org/
-  deadline: ["2025-09-26 23:59"]
-  comment: Main deadline has passed. Late
-  place: TBC
+  deadline: ["2027-09-26 23:59"]
+  comment: Deadlines estimated from the 2026 edition; official 2028 dates TBA.
+  place: TBA
   tags: [CONF, DS, SOFT, ASTAR]
 
-- name: ICSE
-  year: 2026
-  date: April 12 - 18
-  description: 48th International Conference on Software Engineering
-  link: https://conf.researchr.org/home/icse-2026
-  deadline: ["2025-07-18 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Rio de Janeiro, Brazil
-  tags: [SOFT, CONF, TOP4]
-
 - name: AIware
-  year: 2025
+  year: 2027
   date: November 19 - 20
   description: The 2nd ACM International Conference on AI-powered Software
-  link: https://2025.aiwareconf.org/track/aiware-2025-papers#Call-for-Papers
-  deadline: ["2025-07-25 23:59"]
-  comment: Intent Registration (Optional).
-  place: Seoul, South Korea
+  link: https://2027.aiwareconf.org/track/aiware-2027-papers#Call-for-Papers
+  deadline: ["2027-07-25 23:59"]
+  comment: Intent Registration (Optional). Deadlines estimated from the 2025 edition; official 2027 dates TBA.
+  place: TBA
   tags: [SOFT, CONF, AI, OTHERS]
 
 - name: HS3
@@ -1698,55 +1662,45 @@
   tags: [SEC, PRIV, SHOP, OTHERS]
 
 - name: CAIN
-  year: 2027
+  year: 2028
   date: April 25 - 1 May (together with ICSE)
   description: International Conference on AI Engineering Software Engineering For AI
-  link: https://conf.researchr.org/home/cain-2027
-  deadline: ["2026-10-23 23:59"]
-  comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
-  place: Dublin, Ireland
+  link: https://conf.researchr.org/home/cain-2028
+  deadline: ["2027-10-23 23:59"]
+  comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE). Deadlines estimated from the 2027 edition; official 2028 dates TBA.
+  place: TBA
   tags: [SOFT, AI, CONF, CORE-B]
 
 - name: AAAI
-  year: 2026
+  year: 2028
   date: January 20 - 27
   description: Annual AAAI Conference on Artificial Intelligence
-  link: https://aaai.org/conference/aaai/aaai-26/
-  deadline: ["2025-08-18 23:59"]
-  comment: Abstract registration Optional (1 week before deadline AoE).
-  place: Singapore
+  link: https://aaai.org/conference/aaai/aaai-28/
+  deadline: ["2027-08-18 23:59"]
+  comment: Abstract registration Optional (1 week before deadline AoE). Deadlines estimated from the 2026 edition; official 2028 dates TBA.
+  place: TBA
   tags: [AI, CONF, TOP4]
 
 - name: AAMAS
-  year: 2027
+  year: 2028
   date: May 3 - 7
   description: 26th International Conference on Autonomous Agents and Multiagent Systems
-  link: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+  link: https://warwick.ac.uk/fac/sci/dcs/aamas2028/
   dblp: https://dblp.org/db/conf/atal/index.html
-  deadline: ["2026-10-01 23:59", "2026-10-08 23:59"]
-  comment: Main track deadline has passed. Still open - Blue Sky Ideas papers due November 12, 2026; AAAI Fast Track due December 11, 2026; workshop proposals due October 29, 2026.
-  place: Hanoi, Vietnam
+  deadline: ["2027-10-01 23:59", "2027-10-08 23:59"]
+  comment: Deadlines estimated from the 2027 edition; official 2028 dates TBA.
+  place: TBA
   tags: [CONF, AI, CORE-A]
-
-- name: FSE
-  year: 2026
-  date: TBD
-  description: Foundations of Software Engineering
-  link: https://conf.researchr.org/home/fse-2026
-  deadline: ["2025-09-11 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Montréal, Canada
-  tags: [SOFT, CONF, TOP4]
 
 # Bench
 - name: PERFORMANCE
-  year: 2025
+  year: 2027
   date: Nov 11-14
   description: IFIP PERFORMANCE
-  link: https://performance2025.sciencesconf.org/
-  deadline: ["2025-06-15 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: CWI, Amsterdam, Netherlands
+  link: https://performance2027.sciencesconf.org/
+  deadline: ["2027-06-15 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2025 edition; official 2027 dates TBA.
+  place: TBA
   tags: [Bench, CONF, DS, OTHERS]
 
 # - name: ICPE
@@ -1762,44 +1716,34 @@
 # DS
 
 - name: EuroSys
-  year: 2026
+  year: 2028
   date: April 13 - 16
   description: EuroSys
-  link: https://2026.eurosys.org/
+  link: https://2028.eurosys.org/
   #deadline: ["2025-07-15 23:59"]
-  deadline: ["2025-09-25 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Edinburgh, UK
+  deadline: ["2027-09-25 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2026 edition; official 2028 dates TBA.
+  place: TBA
   tags: [DS, CONF, TOP4]
 
 - name: SIGCOMM
-  year: 2026
+  year: 2027
   date: May
   description: ACM Special Interest Group on Data Communication
-  link: https://conferences.sigcomm.org/sigcomm/2026/
-  deadline: ["2026-01-04 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Somewhere
+  link: https://conferences.sigcomm.org/sigcomm/2027/
+  deadline: ["2027-01-04 23:59"]
+  comment: Abstract registration required (1 week before deadline AoE). Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, TOP4]
 
-- name: AsiaCCS
-  year: 2026
-  date: June 1-6
-  description: 21st ACM ASIA Conference on Computer and Communications Security
-  link: https://asiaccs2026.cse.iitkgp.ac.in/
-  deadline: ["2025-08-25 23:59", "2025-12-12 23:59"]
-  comment: Abstract registration required (1 week before deadline AoE).
-  place: Bangalore, India
-  tags: [CONF, DS, TOP4, SEC]
-
 - name: ICDCN
-  year: 2026
+  year: 2028
   date: January 06 - 09
   description: 27th International Conference on Distributed Computing and Networking
-  link: https://conf.researchr.org/home/icdcn-2026 # (to be confirmed)
-  deadline: ["2025-07-25 23:59"]
-  comment: Abstract registration may be required (check conference website)
-  place: Nara, Japan
+  link: https://conf.researchr.org/home/icdcn-2028 # (to be confirmed)
+  deadline: ["2027-07-25 23:59"]
+  comment: Abstract registration may be required (check conference website). Deadlines estimated from the 2026 edition; official 2028 dates TBA.
+  place: TBA
   tags: [DS, CONF, OTHERS]
 
 - name: RCF fellowship
@@ -1814,13 +1758,13 @@
   tags: [FUND]
 
 - name: CCGrid
-  year: 2026
+  year: 2027
   date: May 18 - 21
   description: The 26th IEEE International Symposium on Cluster, Cloud, and Internet Computing
-  link: https://ccgrid2026.cdms.westernsydney.edu.au/
-  deadline: ["2025-12-15 23:59"]
-  comment: Abstract Submission Deadline 1st December 2025.
-  place: Sydney, Australia
+  link: https://ccgrid2027.cdms.westernsydney.edu.au/
+  deadline: ["2026-12-15 23:59"]
+  comment: Deadlines estimated from the 2026 edition; official 2027 dates TBA.
+  place: TBA
   tags: [CONF, DS, AI, SEC, PRIV, SOFT, CORE-B]
 
 - name: DSN
@@ -1837,13 +1781,13 @@
   tags: [CONF, DS, AI, SEC, PRIV, SOFT, CORE-A]
 
 - name: ICSA
-  year: 2027
+  year: 2028
   date: March 8 - 12
-  description: The 24th IEEE International Conference on Software Architecture (ICSA 2027)
-  link: https://conf.researchr.org/home/icsa-2027
-  deadline: ["2026-11-04 23:59"]
-  comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE).
-  place: Australia, Sydney
+  description: The 24th IEEE International Conference on Software Architecture (ICSA 2028)
+  link: https://conf.researchr.org/home/icsa-2028
+  deadline: ["2027-11-04 23:59"]
+  comment: Abstract (Recommended; used for bidding) (1 week before deadline AoE). Deadlines estimated from the 2027 edition; official 2028 dates TBA.
+  place: TBA
   tags: [CONF, AI, SOFT, CORE-A]
 # AAAI AIware ARES ASE AsiaCCS CAIN CCGrid DEBS DSN EuroS&P EuroSys FSE ICDCN ICDCS ICPE ICSA ICSE ICSOC PerCom PERFORMANCE "RCF fellowship" SIGCOMM SRDS
 # Conferences needing verification for 2027:
@@ -1917,20 +1861,20 @@
 
 - name: WICON
   description: EAI International Conference on Wireless Internet
-  year: 2026
-  link: https://wicon.eai-conferences.org/2026/
-  deadline: ["2026-06-01 23:59"]
+  year: 2027
+  link: https://wicon.eai-conferences.org/2027/
+  deadline: ["2027-06-01 23:59"]
   date: December 2-4
-  place: Bratislava, Slovakia
+  place: TBA
   tags: [SEC, CONF, OTHERS]
 
 - name: ADHOCNETS
   description: EAI International Conference on Ad Hoc Networks
-  year: 2025
-  link: https://adhocnets.eai-conferences.org/2025/
-  deadline: ["2025-10-20 23:59"]
+  year: 2027
+  link: https://adhocnets.eai-conferences.org/2027/
+  deadline: ["2027-10-20 23:59"]
   date: December 4-5
-  place: Istanbul, Turkey
+  place: TBA
   tags: [SEC, CONF, OTHERS]
 
 - name: EuroSec
